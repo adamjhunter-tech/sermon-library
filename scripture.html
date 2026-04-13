@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Scripture Reference Index — Sermon &amp; Study Library</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="scripture">
+
+<header class="site-header">
+  <a href="index.html">&#128218; Sermon &amp; Study Library</a>
+  <nav class="header-nav">
+    <a href="series.html">Series</a>
+    <a href="topics.html">Topics</a>
+    <a href="scripture.html">Scripture</a>
+  </nav>
+</header>
+
+<div class="container">
+  <a href="index.html" class="back-btn">&#8592; Back to Search</a>
+  <h1 class="page-title">Scripture Reference Index</h1>
+  <p class="page-subtitle">All passages referenced across the library, in canonical Bible order.</p>
+
+  <div class="notice">
+    <strong>⚑ Index-only flag:</strong> Some references appear in the topic/Scripture index files
+    but were not found in the transcript text. These are flagged for review — they are included
+    but should be verified against the original transcript.
+  </div>
+
+  <div class="page-search-row">
+    <input type="search" id="scripture-search" class="page-search" placeholder="Filter by book or reference…">
+  </div>
+
+  <div id="scripture-container">
+    <p style="color:var(--muted)">Loading…</p>
+  </div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

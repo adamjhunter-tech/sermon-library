@@ -1,0 +1,9 @@
+pipeline_log.txt
+index_error_log.txt
+index_update_log.txt
+retry_queue.txt
+episodes_seen.json
+/audio/
+*.py
+*.bat
+README.txt

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sermon &amp; Study Library</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="index">
+
+<header class="site-header">
+  <a href="index.html">&#128218; Sermon &amp; Study Library</a>
+  <nav class="header-nav">
+    <a href="series.html">Series</a>
+    <a href="topics.html">Topics</a>
+    <a href="scripture.html">Scripture</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h1 class="page-title">Sermon &amp; Study Library</h1>
+  <p class="page-subtitle">Search and browse sermons and Sunday school lessons.</p>
+
+  <div class="search-bar">
+    <input type="search" id="search-input" class="search-input" placeholder="Search titles, topics, Scripture, speakers…" autofocus>
+    <button class="clear-btn" id="clear-btn">Clear</button>
+  </div>
+
+  <div class="filter-row">
+    <select id="speaker-select" class="filter-select">
+      <option value="">All Speakers</option>
+    </select>
+    <select id="series-select" class="filter-select">
+      <option value="">All Series</option>
+    </select>
+    <select id="tag-select" class="filter-select">
+      <option value="">All Topics</option>
+    </select>
+    <select id="book-select" class="filter-select">
+      <option value="">All Books of the Bible</option>
+    </select>
+  </div>
+
+  <div class="results-count" id="result-count"></div>
+  <div class="cards-grid" id="cards-container">
+    <p style="color:var(--muted)">Loading library data…</p>
+  </div>
+</div>
+
+<!-- Library data is embedded by build_website.py -->
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
