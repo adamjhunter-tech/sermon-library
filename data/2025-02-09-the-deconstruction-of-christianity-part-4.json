@@ -13,19 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/2-9-25-the-deconstruction-of-christianity-part-4-dismantling-authority-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "deconstruction",
-      "source": "detected"
-    },
-    {
       "tag": "cultural engagement",
       "source": "detected"
     },
     {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
-      "tag": "original sin",
+      "tag": "sin",
       "source": "detected"
     },
     {
@@ -34,10 +26,6 @@
     },
     {
       "tag": "false teaching",
-      "source": "detected"
-    },
-    {
-      "tag": "postmodernism",
       "source": "detected"
     }
   ],

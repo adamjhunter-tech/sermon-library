@@ -13,14 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/marys-song-luke-1_39-56-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "Advent",
-      "source": "detected"
-    },
-    {
-      "tag": "praise",
-      "source": "detected"
-    },
-    {
       "tag": "humility",
       "source": "detected"
     },
@@ -30,10 +22,6 @@
     },
     {
       "tag": "incarnation",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
       "source": "detected"
     }
   ],

@@ -17,19 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "speech",
-      "source": "detected"
-    },
-    {
-      "tag": "anger",
-      "source": "detected"
-    },
-    {
       "tag": "sanctification",
-      "source": "detected"
-    },
-    {
-      "tag": "Bible study",
       "source": "detected"
     }
   ],

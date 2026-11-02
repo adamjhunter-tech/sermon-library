@@ -19,18 +19,6 @@
     {
       "tag": "Holy Spirit",
       "source": "detected"
-    },
-    {
-      "tag": "singing",
-      "source": "detected"
-    },
-    {
-      "tag": "thanksgiving",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
-      "source": "detected"
     }
   ],
   "scripture_references": [

@@ -99,23 +99,15 @@
   ],
   "tags": [
     {
-      "tag": "Christian identity",
-      "source": "detected"
-    },
-    {
-      "tag": "Conversion",
-      "source": "detected"
-    },
-    {
       "tag": "Christology",
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
-      "tag": "Gospel",
+      "tag": "gospel",
       "source": "detected"
     }
   ],

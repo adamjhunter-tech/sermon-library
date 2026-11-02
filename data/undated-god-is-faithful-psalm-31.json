@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "deliverance",
-      "source": "detected"
-    },
-    {
       "tag": "faith",
       "source": "detected"
     },
@@ -29,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "enemies",
-      "source": "detected"
-    },
-    {
       "tag": "prayer",
-      "source": "detected"
-    },
-    {
-      "tag": "encouragement",
       "source": "detected"
     }
   ],

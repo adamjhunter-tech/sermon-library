@@ -17,11 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "corporate worship",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Standards",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
@@ -29,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "conscience",
-      "source": "detected"
-    },
-    {
-      "tag": "sufficiency of Scripture",
-      "source": "detected"
-    },
-    {
-      "tag": "confession",
+      "tag": "Word of God",
       "source": "detected"
     }
   ],

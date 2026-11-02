@@ -12,19 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
       "tag": "government",
-      "source": "detected"
-    },
-    {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
       "source": "detected"
     }
   ],

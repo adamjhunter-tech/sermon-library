@@ -17,31 +17,19 @@
       "source": "detected"
     },
     {
-      "tag": "authority of Scripture",
-      "source": "detected"
-    },
-    {
       "tag": "election",
       "source": "detected"
     },
     {
-      "tag": "thanksgiving",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
-      "tag": "perseverance",
-      "source": "detected"
-    },
-    {
-      "tag": "gospel ministry",
+      "tag": "gospel",
       "source": "detected"
     },
     {
       "tag": "faith",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
       "source": "detected"
     }
   ],

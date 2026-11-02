@@ -112,27 +112,15 @@
   ],
   "tags": [
     {
-      "tag": "Trust",
+      "tag": "trust in God",
       "source": "detected"
     },
     {
-      "tag": "Obedience",
+      "tag": "obedience",
       "source": "detected"
     },
     {
-      "tag": "God's Guidance",
-      "source": "detected"
-    },
-    {
-      "tag": "Self-Reliance",
-      "source": "detected"
-    },
-    {
-      "tag": "Gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "Wisdom",
+      "tag": "gospel",
       "source": "detected"
     }
   ],

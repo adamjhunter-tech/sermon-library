@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/peace-through-the-blood-of-the-covenant-hebrews-1320-25-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "peace",
-      "source": "detected"
-    },
-    {
       "tag": "atonement",
       "source": "detected"
     },
@@ -25,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "Good Shepherd",
-      "source": "detected"
-    },
-    {
       "tag": "covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "blessing",
       "source": "detected"
     },
     {

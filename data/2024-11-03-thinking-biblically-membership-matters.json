@@ -17,11 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "church unity",
+      "tag": "church",
       "source": "detected"
     },
     {
-      "tag": "sufficiency of Scripture",
+      "tag": "Word of God",
       "source": "detected"
     },
     {
@@ -34,10 +34,6 @@
     },
     {
       "tag": "baptism",
-      "source": "detected"
-    },
-    {
-      "tag": "church",
       "source": "detected"
     }
   ],

@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/what-is-the-mission-of-the-church-4-part-2-understanding-the-good-news-elder-andrew-hoy",
   "tags": [
     {
-      "tag": "mission",
+      "tag": "missions",
       "source": "detected"
     },
     {
@@ -25,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "good news",
-      "source": "detected"
-    },
-    {
       "tag": "evangelism",
-      "source": "detected"
-    },
-    {
-      "tag": "kingdom of God",
       "source": "detected"
     }
   ],

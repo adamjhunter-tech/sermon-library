@@ -13,11 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/god-is-love-pastor-tito-lyro-1-john-47-21",
   "tags": [
     {
-      "tag": "love of God",
-      "source": "detected"
-    },
-    {
-      "tag": "propitiation",
+      "tag": "love",
       "source": "detected"
     },
     {
@@ -26,10 +22,6 @@
     },
     {
       "tag": "Holy Spirit",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
       "source": "detected"
     },
     {

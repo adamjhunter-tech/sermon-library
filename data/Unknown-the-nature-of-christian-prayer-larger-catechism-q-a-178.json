@@ -3,7 +3,7 @@
   "speaker": "Unknown Speaker",
   "date": "Unknown",
   "session": "Book Sunday - First Sunday of the Month",
-  "series": "Prayer Series: Larger Catechism Questions 176-189",
+  "series": "Lessons from the School of Prayer",
   "series_part": 1,
   "parts": 1,
   "summary": "This lesson introduces an eight-part series on Christian prayer using the Larger Catechism as the foundation. The speaker defines prayer according to Question 178 as an offering up of our desires unto God in the name of Christ by the help of the Holy Spirit, with confession of sins and thankful acknowledgement of God's mercies. The lesson emphasizes the distinctions between Christian prayer and non-Christian prayer, highlighting that only biblical prayer is offered to the triune God through Christ as mediator.",
@@ -103,19 +103,15 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Larger Catechism",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian Practice",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
@@ -123,7 +119,7 @@
       "source": "detected"
     },
     {
-      "tag": "Regeneration",
+      "tag": "regeneration",
       "source": "detected"
     }
   ],

@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-helper-of-the-afflicted-psalm-119153-160-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "affliction",
-      "source": "detected"
-    },
-    {
       "tag": "suffering",
       "source": "detected"
     },
@@ -33,15 +29,11 @@
       "source": "detected"
     },
     {
-      "tag": "mercy of God",
-      "source": "detected"
-    },
-    {
       "tag": "providence",
       "source": "detected"
     },
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     }
   ],

@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/provoke-each-other-pastor-tito-lyro-hebrews-1019-31",
   "tags": [
     {
-      "tag": "Lord's Day",
+      "tag": "Sabbath",
       "source": "detected"
     },
     {
@@ -33,11 +33,11 @@
       "source": "detected"
     },
     {
-      "tag": "good works",
+      "tag": "obedience",
       "source": "detected"
     },
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
@@ -46,10 +46,6 @@
     },
     {
       "tag": "Christology",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
       "source": "detected"
     }
   ],

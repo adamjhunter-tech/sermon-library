@@ -17,15 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "counseling",
-      "source": "detected"
-    },
-    {
-      "tag": "friendship",
-      "source": "detected"
-    },
-    {
-      "tag": "Satan",
+      "tag": "spiritual warfare",
       "source": "detected"
     },
     {
@@ -34,10 +26,6 @@
     },
     {
       "tag": "wisdom",
-      "source": "detected"
-    },
-    {
-      "tag": "Hebrew poetry",
       "source": "detected"
     }
   ],

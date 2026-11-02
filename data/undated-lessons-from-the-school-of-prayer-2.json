@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "thanksgiving",
-      "source": "detected"
-    },
-    {
       "tag": "sanctification",
       "source": "detected"
     },
@@ -30,10 +26,6 @@
     },
     {
       "tag": "judgment",
-      "source": "detected"
-    },
-    {
-      "tag": "persecution",
       "source": "detected"
     }
   ],

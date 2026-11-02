@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/gospel-and-truth-pastor-tito-lyro-ephesians-614-20",
   "tags": [
     {
-      "tag": "armor of God",
-      "source": "detected"
-    },
-    {
       "tag": "gospel",
       "source": "detected"
     },
@@ -29,7 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
@@ -37,19 +33,11 @@
       "source": "detected"
     },
     {
-      "tag": "reconciliation",
-      "source": "detected"
-    },
-    {
       "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "theology",
-      "source": "detected"
-    },
-    {
-      "tag": "Satan",
+      "tag": "Reformed theology",
       "source": "detected"
     }
   ],

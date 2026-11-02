@@ -17,14 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "authority of Scripture",
-      "source": "detected"
-    },
-    {
-      "tag": "inerrancy",
-      "source": "detected"
-    },
-    {
       "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
@@ -33,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "canon of Scripture",
-      "source": "detected"
-    },
-    {
       "tag": "Holy Spirit",
-      "source": "detected"
-    },
-    {
-      "tag": "prophecy",
       "source": "detected"
     }
   ],

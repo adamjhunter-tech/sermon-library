@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/discipleship-11-discipleship-in-the-family-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "children",
+      "tag": "family",
       "source": "detected"
     },
     {
@@ -25,7 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "Lord's Day",
+      "tag": "Sabbath",
       "source": "detected"
     },
     {
@@ -42,14 +42,6 @@
     },
     {
       "tag": "regeneration",
-      "source": "detected"
-    },
-    {
-      "tag": "family",
-      "source": "detected"
-    },
-    {
-      "tag": "Sabbath",
       "source": "detected"
     }
   ],

@@ -16,11 +16,7 @@
       "source": "detected"
     },
     {
-      "tag": "persecution",
-      "source": "detected"
-    },
-    {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
@@ -28,15 +24,7 @@
       "source": "detected"
     },
     {
-      "tag": "Presbyterianism",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian education",
-      "source": "detected"
-    },
-    {
-      "tag": "suffering for Christ",
+      "tag": "education",
       "source": "detected"
     }
   ],

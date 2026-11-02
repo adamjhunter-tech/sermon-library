@@ -104,27 +104,11 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Christ's Mediation",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian Discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Mercy",
-      "source": "detected"
-    },
-    {
-      "tag": "Confidence in God",
-      "source": "detected"
-    },
-    {
-      "tag": "Larger Catechism",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     }
   ],

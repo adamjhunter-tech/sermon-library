@@ -21,10 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "children",
-      "source": "detected"
-    },
-    {
       "tag": "family",
       "source": "detected"
     },
@@ -33,15 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "fatherhood",
-      "source": "detected"
-    },
-    {
-      "tag": "discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian education",
+      "tag": "education",
       "source": "detected"
     },
     {

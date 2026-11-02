@@ -94,27 +94,11 @@
   ],
   "tags": [
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
       "tag": "Westminster Confession of Faith",
-      "source": "detected"
-    },
-    {
-      "tag": "Salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "Gospel Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Confession and Sin",
-      "source": "detected"
-    },
-    {
-      "tag": "Divine Mercy",
       "source": "detected"
     }
   ],

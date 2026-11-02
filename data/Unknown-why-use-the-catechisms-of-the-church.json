@@ -95,32 +95,7 @@
       "scripture": []
     }
   ],
-  "tags": [
-    {
-      "tag": "Catechisms",
-      "source": "detected"
-    },
-    {
-      "tag": "Heidelberg Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "Systematic Theology",
-      "source": "detected"
-    },
-    {
-      "tag": "Reformed Doctrine",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian Education",
-      "source": "detected"
-    },
-    {
-      "tag": "Family Discipleship",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "2 Timothy 2:1-2",

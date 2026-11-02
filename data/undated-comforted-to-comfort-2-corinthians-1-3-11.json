@@ -17,23 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "comfort",
-      "source": "detected"
-    },
-    {
       "tag": "Trinity",
       "source": "detected"
     },
     {
       "tag": "prayer",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
-      "source": "detected"
-    },
-    {
-      "tag": "despair",
       "source": "detected"
     }
   ],

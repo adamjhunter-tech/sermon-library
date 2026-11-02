@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/o-lord-open-my-eyes-pastor-tito-lyro-psalm-11917-24",
   "tags": [
     {
-      "tag": "Bible study",
-      "source": "detected"
-    },
-    {
       "tag": "prayer",
       "source": "detected"
     },
@@ -25,19 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "meditation",
-      "source": "detected"
-    },
-    {
       "tag": "sanctification",
       "source": "detected"
     },
     {
       "tag": "Holy Spirit",
-      "source": "detected"
-    },
-    {
-      "tag": "spiritual disciplines",
       "source": "detected"
     }
   ],

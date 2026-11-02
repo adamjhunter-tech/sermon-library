@@ -13,15 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/shout-for-joy-pastor-tito-lyro-psalm-33",
   "tags": [
     {
-      "tag": "praise",
-      "source": "detected"
-    },
-    {
       "tag": "worship",
-      "source": "detected"
-    },
-    {
-      "tag": "singing",
       "source": "detected"
     },
     {
@@ -42,10 +34,6 @@
     },
     {
       "tag": "joy",
-      "source": "detected"
-    },
-    {
-      "tag": "faithfulness of God",
       "source": "detected"
     }
   ],

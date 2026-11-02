@@ -13,23 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/721-24-the-core-of-calvinism-3a-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "Calvinism",
-      "source": "detected"
-    },
-    {
-      "tag": "piety",
-      "source": "detected"
-    },
-    {
       "tag": "holiness",
       "source": "detected"
     },
     {
       "tag": "prayer",
-      "source": "detected"
-    },
-    {
-      "tag": "godliness",
       "source": "detected"
     },
     {
@@ -42,10 +30,6 @@
     },
     {
       "tag": "repentance",
-      "source": "detected"
-    },
-    {
-      "tag": "Calvin",
       "source": "detected"
     }
   ],

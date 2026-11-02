@@ -12,15 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
       "tag": "marriage",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
       "source": "detected"
     }
   ],

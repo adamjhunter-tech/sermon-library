@@ -13,15 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/what-is-the-mission-of-the-church-5",
   "tags": [
     {
-      "tag": "mission",
+      "tag": "missions",
       "source": "detected"
     },
     {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
       "source": "detected"
     },
     {

@@ -4,7 +4,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": null,
   "session": "AM",
-  "series": "Jesus Christ — The Final Revelation",
+  "series": "Jesus Christ—The Final Revelation",
   "series_part": null,
   "parts": 1,
   "source_files": [
@@ -17,27 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "perseverance",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "encouragement",
-      "source": "detected"
-    },
-    {
-      "tag": "bitterness",
-      "source": "detected"
-    },
-    {
-      "tag": "peace",
       "source": "detected"
     },
     {

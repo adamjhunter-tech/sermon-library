@@ -99,32 +99,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "The Fool",
-      "source": "detected"
-    },
-    {
-      "tag": "Total Depravity",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "Atheism",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Psalm Interpretation",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "Psalm 14",

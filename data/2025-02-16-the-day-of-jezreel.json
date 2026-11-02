@@ -28,19 +28,7 @@
       "source": "detected"
     },
     {
-      "tag": "typology",
-      "source": "detected"
-    },
-    {
-      "tag": "Old Testament",
-      "source": "detected"
-    },
-    {
       "tag": "gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "mercy",
       "source": "detected"
     }
   ],

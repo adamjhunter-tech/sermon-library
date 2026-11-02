@@ -17,19 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "Lord's Day",
-      "source": "detected"
-    },
-    {
-      "tag": "rest",
-      "source": "detected"
-    },
-    {
       "tag": "worship",
-      "source": "detected"
-    },
-    {
-      "tag": "Fourth Commandment",
       "source": "detected"
     }
   ],

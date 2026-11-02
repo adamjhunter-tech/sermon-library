@@ -13,15 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/9-29-24-the-ministry-of-the-holy-spirit-part-3-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
       "tag": "sin",
-      "source": "detected"
-    },
-    {
-      "tag": "typology",
       "source": "detected"
     },
     {
@@ -30,10 +26,6 @@
     },
     {
       "tag": "gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "pilgrimage",
       "source": "detected"
     }
   ],

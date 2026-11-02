@@ -21,23 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "confession",
-      "source": "detected"
-    },
-    {
       "tag": "repentance",
       "source": "detected"
     },
     {
-      "tag": "new covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "propitiation",
-      "source": "detected"
-    },
-    {
-      "tag": "fellowship",
+      "tag": "covenant",
       "source": "detected"
     },
     {

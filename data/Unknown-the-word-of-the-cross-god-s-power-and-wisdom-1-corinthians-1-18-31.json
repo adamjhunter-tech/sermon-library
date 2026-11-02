@@ -68,27 +68,11 @@
   ],
   "tags": [
     {
-      "tag": "Gospel",
+      "tag": "gospel",
       "source": "detected"
     },
     {
-      "tag": "The Cross",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Wisdom",
-      "source": "detected"
-    },
-    {
-      "tag": "Salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Identity",
-      "source": "detected"
-    },
-    {
-      "tag": "Humility",
+      "tag": "humility",
       "source": "detected"
     }
   ],

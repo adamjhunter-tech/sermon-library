@@ -13,19 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-new-covenant-hebrews-8-7",
   "tags": [
     {
-      "tag": "new covenant",
+      "tag": "covenant",
       "source": "detected"
     },
     {
-      "tag": "law",
-      "source": "detected"
-    },
-    {
-      "tag": "forgiveness",
-      "source": "detected"
-    },
-    {
-      "tag": "theology",
+      "tag": "Reformed theology",
       "source": "detected"
     }
   ],

@@ -4,7 +4,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "2025-01-12",
   "session": "AM",
-  "series": "Jesus Christ — The Final Revelation",
+  "series": "Jesus Christ—The Final Revelation",
   "series_part": 1,
   "parts": 1,
   "source_files": [
@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/1-12-25-pm-jesus-christ-the",
   "tags": [
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
@@ -21,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "apostasy",
-      "source": "detected"
-    },
-    {
       "tag": "faith",
-      "source": "detected"
-    },
-    {
-      "tag": "sufficiency of Christ",
       "source": "detected"
     }
   ],

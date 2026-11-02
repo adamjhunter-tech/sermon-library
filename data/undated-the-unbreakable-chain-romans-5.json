@@ -13,11 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/the-unbreakable-chain-mr-craig",
   "tags": [
     {
-      "tag": "salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
@@ -30,10 +26,6 @@
     },
     {
       "tag": "faith",
-      "source": "detected"
-    },
-    {
-      "tag": "perseverance of the saints",
       "source": "detected"
     }
   ],

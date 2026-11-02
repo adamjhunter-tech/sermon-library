@@ -106,23 +106,15 @@
       "source": "detected"
     },
     {
-      "tag": "Sacraments",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
+      "tag": "means of grace",
       "source": "detected"
     },
     {
-      "tag": "Covenant Renewal",
-      "source": "detected"
-    },
-    {
-      "tag": "Means of Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Membership",
+      "tag": "church membership",
       "source": "detected"
     }
   ],

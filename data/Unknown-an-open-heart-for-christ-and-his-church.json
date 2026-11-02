@@ -67,32 +67,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Affections and the Heart",
-      "source": "detected"
-    },
-    {
-      "tag": "Apostolic Ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "Spiritual Decline",
-      "source": "detected"
-    },
-    {
-      "tag": "Love for Christ and the Church",
-      "source": "detected"
-    },
-    {
-      "tag": "Grace and Spiritual Discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "Covenant Relationship with God",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "2 Corinthians 6:3-13",

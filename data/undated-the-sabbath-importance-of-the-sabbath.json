@@ -17,23 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "Lord's Day",
-      "source": "detected"
-    },
-    {
-      "tag": "Fourth Commandment",
-      "source": "detected"
-    },
-    {
       "tag": "worship",
       "source": "detected"
     },
     {
       "tag": "Westminster Confession of Faith",
-      "source": "detected"
-    },
-    {
-      "tag": "rest",
       "source": "detected"
     }
   ],

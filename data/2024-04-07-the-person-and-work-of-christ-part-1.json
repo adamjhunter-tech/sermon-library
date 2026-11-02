@@ -17,11 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "covenant of grace",
-      "source": "detected"
-    },
-    {
-      "tag": "covenant of works",
+      "tag": "grace",
       "source": "detected"
     },
     {
@@ -30,10 +26,6 @@
     },
     {
       "tag": "Westminster Larger Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "federal headship",
       "source": "detected"
     },
     {

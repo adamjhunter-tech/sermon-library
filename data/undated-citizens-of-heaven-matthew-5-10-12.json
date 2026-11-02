@@ -4,7 +4,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": null,
   "session": "AM",
-  "series": "Beatitudes",
+  "series": "The Beatitudes",
   "series_part": null,
   "parts": 1,
   "source_files": [
@@ -13,27 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/citizens-of-heaven-pastor-tito-lyro-matthew-510-12",
   "tags": [
     {
-      "tag": "persecution",
-      "source": "detected"
-    },
-    {
-      "tag": "Beatitudes",
-      "source": "detected"
-    },
-    {
-      "tag": "Sermon on the Mount",
-      "source": "detected"
-    },
-    {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "kingdom of God",
-      "source": "detected"
-    },
-    {
-      "tag": "righteousness",
       "source": "detected"
     },
     {

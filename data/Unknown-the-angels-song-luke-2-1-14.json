@@ -79,27 +79,15 @@
   ],
   "tags": [
     {
-      "tag": "Incarnation",
+      "tag": "incarnation",
       "source": "detected"
     },
     {
-      "tag": "Divine Revelation",
+      "tag": "angels",
       "source": "detected"
     },
     {
-      "tag": "Reconciliation",
-      "source": "detected"
-    },
-    {
-      "tag": "Angels",
-      "source": "detected"
-    },
-    {
-      "tag": "Peace with God",
-      "source": "detected"
-    },
-    {
-      "tag": "Grace",
+      "tag": "grace",
       "source": "detected"
     }
   ],

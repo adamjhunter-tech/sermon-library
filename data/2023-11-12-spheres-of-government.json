@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/11-12-23-pm-spheres-of-government-1-peter-2_13-17-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
       "tag": "government",
       "source": "detected"
     },
@@ -30,10 +26,6 @@
     },
     {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
       "source": "detected"
     }
   ],

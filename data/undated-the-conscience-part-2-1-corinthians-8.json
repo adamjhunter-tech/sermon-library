@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-conscience-pastor-tito-lyro-1-john-3_18-24",
   "tags": [
     {
-      "tag": "conscience",
-      "source": "detected"
-    },
-    {
       "tag": "idolatry",
       "source": "detected"
     },
@@ -30,10 +26,6 @@
     },
     {
       "tag": "sin",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian liberty",
       "source": "detected"
     }
   ],

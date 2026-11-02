@@ -97,27 +97,7 @@
   ],
   "tags": [
     {
-      "tag": "Heart",
-      "source": "detected"
-    },
-    {
-      "tag": "Worship",
-      "source": "detected"
-    },
-    {
-      "tag": "Proverbs",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical counseling",
-      "source": "detected"
-    },
-    {
-      "tag": "Cultural apologetics",
+      "tag": "worship",
       "source": "detected"
     }
   ],

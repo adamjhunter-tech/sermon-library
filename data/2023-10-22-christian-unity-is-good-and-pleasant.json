@@ -13,19 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/10-22-23-am-christian-unity-is-good-and-pleasant-why-guest-speaker-pastor-renan-de-olivera",
   "tags": [
     {
-      "tag": "unity",
-      "source": "detected"
-    },
-    {
       "tag": "worship",
       "source": "detected"
     },
     {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "fellowship",
       "source": "detected"
     }
   ],

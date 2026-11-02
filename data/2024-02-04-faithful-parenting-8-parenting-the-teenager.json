@@ -14,22 +14,6 @@
     {
       "tag": "parenting",
       "source": "detected"
-    },
-    {
-      "tag": "discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
-      "tag": "fatherhood",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
-      "source": "detected"
     }
   ],
   "scripture_references": [

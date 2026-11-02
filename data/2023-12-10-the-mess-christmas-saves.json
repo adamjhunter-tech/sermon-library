@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "self-denial",
-      "source": "detected"
-    },
-    {
       "tag": "grace",
       "source": "detected"
     },
@@ -30,14 +26,6 @@
     },
     {
       "tag": "judgment",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
-      "source": "detected"
-    },
-    {
-      "tag": "Christmas",
       "source": "detected"
     }
   ],

@@ -107,27 +107,19 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
-      "tag": "Catechism",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     },
     {
-      "tag": "Christian Practice",
-      "source": "detected"
-    },
-    {
-      "tag": "Trinitarian Theology",
-      "source": "detected"
-    },
-    {
-      "tag": "Regeneration",
+      "tag": "regeneration",
       "source": "detected"
     }
   ],

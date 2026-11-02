@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-aroma-of-christ-2",
   "tags": [
     {
-      "tag": "gospel ministry",
+      "tag": "gospel",
       "source": "detected"
     },
     {
@@ -22,10 +22,6 @@
     },
     {
       "tag": "resurrection",
-      "source": "detected"
-    },
-    {
-      "tag": "integrity",
       "source": "detected"
     },
     {

@@ -21,23 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "intercession",
-      "source": "detected"
-    },
-    {
       "tag": "sin",
       "source": "detected"
     },
     {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "glory of God",
-      "source": "detected"
-    },
-    {
-      "tag": "Lord's Prayer",
       "source": "detected"
     }
   ],

@@ -21,14 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "persecution",
-      "source": "detected"
-    },
-    {
-      "tag": "covenant baptism",
-      "source": "detected"
-    },
-    {
       "tag": "baptism",
       "source": "detected"
     },
@@ -41,15 +33,7 @@
       "source": "detected"
     },
     {
-      "tag": "Christian living",
-      "source": "detected"
-    },
-    {
       "tag": "heaven",
-      "source": "detected"
-    },
-    {
-      "tag": "paedobaptism",
       "source": "detected"
     }
   ],

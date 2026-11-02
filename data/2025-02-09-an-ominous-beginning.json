@@ -13,10 +13,6 @@
   ],
   "tags": [
     {
-      "tag": "prophecy",
-      "source": "detected"
-    },
-    {
       "tag": "judgment",
       "source": "detected"
     },
@@ -37,7 +33,7 @@
       "source": "detected"
     },
     {
-      "tag": "church and state",
+      "tag": "government",
       "source": "detected"
     }
   ],

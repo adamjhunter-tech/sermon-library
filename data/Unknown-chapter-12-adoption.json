@@ -3,7 +3,7 @@
   "speaker": "Elder Nick Anderson",
   "date": "Unknown",
   "session": "Sunday School",
-  "series": "Ordo Salutis (Order of Salvation)",
+  "series": "Order of Salvation",
   "series_part": 12,
   "parts": 1,
   "summary": "This lesson explores the doctrine of adoption as the twelfth step in the order of salvation. Elder Anderson presents twelve benefits of adoption, explaining how believers become children of God with full legal rights, a new nature, and eternal security in Christ.",
@@ -192,27 +192,7 @@
   ],
   "tags": [
     {
-      "tag": "Adoption",
-      "source": "detected"
-    },
-    {
-      "tag": "Ordo Salutis",
-      "source": "detected"
-    },
-    {
-      "tag": "Sonship",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Love",
-      "source": "detected"
-    },
-    {
-      "tag": "Eternal Security",
-      "source": "detected"
-    },
-    {
-      "tag": "Spiritual Transformation",
+      "tag": "adoption",
       "source": "detected"
     }
   ],

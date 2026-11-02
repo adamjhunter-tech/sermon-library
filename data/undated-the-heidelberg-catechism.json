@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/the-heidelberg-catechism-mr-isaiah-couch",
   "tags": [
     {
-      "tag": "Heidelberg Catechism",
-      "source": "detected"
-    },
-    {
       "tag": "church history",
       "source": "detected"
     },
@@ -25,15 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
       "tag": "Reformed theology",
-      "source": "detected"
-    },
-    {
-      "tag": "comfort",
       "source": "detected"
     }
   ],

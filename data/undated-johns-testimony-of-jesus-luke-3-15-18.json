@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/02-11-24-am-jesus-is-the-i-am-john-8_12-30-elder-scott-hollander",
   "tags": [
     {
-      "tag": "John the Baptist",
-      "source": "detected"
-    },
-    {
       "tag": "Christology",
       "source": "detected"
     },
@@ -30,10 +26,6 @@
     },
     {
       "tag": "judgment",
-      "source": "detected"
-    },
-    {
-      "tag": "Messiah",
       "source": "detected"
     }
   ],

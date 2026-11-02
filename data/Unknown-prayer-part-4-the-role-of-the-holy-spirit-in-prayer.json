@@ -130,23 +130,15 @@
       "source": "detected"
     },
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Larger Catechism",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
-      "source": "detected"
-    },
-    {
-      "tag": "Intercession",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Character",
+      "tag": "sanctification",
       "source": "detected"
     }
   ],

@@ -16,10 +16,6 @@
       "source": "detected"
     },
     {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
       "tag": "church membership",
       "source": "detected"
     },

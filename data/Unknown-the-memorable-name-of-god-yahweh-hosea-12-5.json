@@ -105,23 +105,7 @@
   ],
   "tags": [
     {
-      "tag": "God's Name",
-      "source": "detected"
-    },
-    {
-      "tag": "Yahweh",
-      "source": "detected"
-    },
-    {
-      "tag": "Jesus Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Attributes",
-      "source": "detected"
-    },
-    {
-      "tag": "Worship",
+      "tag": "worship",
       "source": "detected"
     },
     {

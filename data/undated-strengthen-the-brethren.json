@@ -21,31 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "perseverance",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
-      "source": "detected"
-    },
-    {
-      "tag": "discouragement",
+      "tag": "perseverance of the saints",
       "source": "detected"
     },
     {
       "tag": "holiness",
-      "source": "detected"
-    },
-    {
-      "tag": "peace",
-      "source": "detected"
-    },
-    {
-      "tag": "bitterness",
-      "source": "detected"
-    },
-    {
-      "tag": "encouragement",
       "source": "detected"
     }
   ],

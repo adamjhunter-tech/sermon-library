@@ -23,14 +23,6 @@
     {
       "tag": "worship",
       "source": "detected"
-    },
-    {
-      "tag": "thanksgiving",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
-      "source": "detected"
     }
   ],
   "scripture_references": [

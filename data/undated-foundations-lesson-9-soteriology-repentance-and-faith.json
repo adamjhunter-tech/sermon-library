@@ -21,19 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "soteriology",
+      "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "justification by faith",
-      "source": "detected"
-    },
-    {
-      "tag": "gospel proclamation",
-      "source": "detected"
-    },
-    {
-      "tag": "conversion",
+      "tag": "gospel",
       "source": "detected"
     }
   ],

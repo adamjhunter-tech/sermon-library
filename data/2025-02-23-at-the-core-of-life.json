@@ -12,10 +12,6 @@
   ],
   "tags": [
     {
-      "tag": "cross of Christ",
-      "source": "detected"
-    },
-    {
       "tag": "gospel",
       "source": "detected"
     },
@@ -24,19 +20,7 @@
       "source": "detected"
     },
     {
-      "tag": "legalism",
-      "source": "detected"
-    },
-    {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
       "tag": "assurance",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
       "source": "detected"
     }
   ],

@@ -113,27 +113,11 @@
   ],
   "tags": [
     {
-      "tag": "Church Discipline",
+      "tag": "church discipline",
       "source": "detected"
     },
     {
-      "tag": "Excommunication",
-      "source": "detected"
-    },
-    {
-      "tag": "Repentance",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Practice",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical Authority",
-      "source": "detected"
-    },
-    {
-      "tag": "Grace and Mercy",
+      "tag": "repentance",
       "source": "detected"
     }
   ],

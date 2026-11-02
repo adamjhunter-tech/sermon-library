@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/gods-will-and-discernment-1-thessalonians-43-elder-nick-anderson",
   "tags": [
     {
-      "tag": "God's will",
-      "source": "detected"
-    },
-    {
       "tag": "discernment",
       "source": "detected"
     },
@@ -26,10 +22,6 @@
     },
     {
       "tag": "wisdom",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
       "source": "detected"
     }
   ],

@@ -14,14 +14,6 @@
     {
       "tag": "marriage",
       "source": "detected"
-    },
-    {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
-      "source": "detected"
     }
   ],
   "scripture_references": [

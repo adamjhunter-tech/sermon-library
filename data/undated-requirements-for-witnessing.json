@@ -17,35 +17,19 @@
       "source": "detected"
     },
     {
-      "tag": "witnessing",
-      "source": "detected"
-    },
-    {
       "tag": "humility",
       "source": "detected"
     },
     {
-      "tag": "generosity",
+      "tag": "stewardship",
       "source": "detected"
     },
     {
-      "tag": "gospel ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "Paul",
+      "tag": "gospel",
       "source": "detected"
     },
     {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "pastoral care",
-      "source": "detected"
-    },
-    {
-      "tag": "integrity",
       "source": "detected"
     }
   ],

@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/justice-and-social-justice-elder-andrew-hoy",
   "tags": [
     {
-      "tag": "mission",
+      "tag": "missions",
       "source": "detected"
     },
     {
@@ -21,19 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "social justice",
-      "source": "detected"
-    },
-    {
-      "tag": "Great Commission",
-      "source": "detected"
-    },
-    {
       "tag": "discipleship",
-      "source": "detected"
-    },
-    {
-      "tag": "missions",
       "source": "detected"
     }
   ],

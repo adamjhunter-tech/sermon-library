@@ -27,10 +27,6 @@
     {
       "tag": "church",
       "source": "detected"
-    },
-    {
-      "tag": "intercession",
-      "source": "detected"
     }
   ],
   "scripture_references": [

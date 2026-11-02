@@ -12,15 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "abuse",
-      "source": "detected"
-    },
-    {
-      "tag": "counseling",
-      "source": "detected"
-    },
-    {
-      "tag": "theology",
+      "tag": "Reformed theology",
       "source": "detected"
     },
     {
@@ -28,7 +20,7 @@
       "source": "detected"
     },
     {
-      "tag": "Christian education",
+      "tag": "education",
       "source": "detected"
     },
     {

@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "American Presbyterianism",
-      "source": "detected"
-    },
-    {
       "tag": "ecclesiology",
       "source": "detected"
     },
@@ -29,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
-      "source": "detected"
-    },
-    {
-      "tag": "Presbyterianism",
-      "source": "detected"
-    },
-    {
-      "tag": "motherhood",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     }
   ],

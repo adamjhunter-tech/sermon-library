@@ -14,7 +14,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/6-30-24-creeds-we-confess-the-apostles-creed-mr-isaiah-couch",
   "tags": [
     {
-      "tag": "Apostles' Creed",
+      "tag": "Nicene Creed",
       "source": "detected"
     },
     {
@@ -22,11 +22,7 @@
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
-      "source": "detected"
-    },
-    {
-      "tag": "confession",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {

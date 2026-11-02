@@ -13,10 +13,6 @@
   "soundcloud_url": null,
   "tags": [
     {
-      "tag": "new covenant",
-      "source": "detected"
-    },
-    {
       "tag": "covenant",
       "source": "detected"
     },
@@ -29,23 +25,11 @@
       "source": "detected"
     },
     {
-      "tag": "law and gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "legalism",
-      "source": "detected"
-    },
-    {
-      "tag": "antinomianism",
+      "tag": "gospel",
       "source": "detected"
     },
     {
       "tag": "Holy Spirit",
-      "source": "detected"
-    },
-    {
-      "tag": "boldness",
       "source": "detected"
     }
   ],

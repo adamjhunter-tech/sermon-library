@@ -13,15 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/10-15-23-pm-love-one-another-because-of-the-gospel-1-peter-1_22-25-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "brotherly love",
+      "tag": "love",
       "source": "detected"
     },
     {
       "tag": "sanctification",
-      "source": "detected"
-    },
-    {
-      "tag": "new birth",
       "source": "detected"
     },
     {
@@ -30,10 +26,6 @@
     },
     {
       "tag": "obedience",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
       "source": "detected"
     }
   ],

@@ -79,32 +79,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Suffering and affliction",
-      "source": "detected"
-    },
-    {
-      "tag": "Eternal perspective",
-      "source": "detected"
-    },
-    {
-      "tag": "Inner renewal",
-      "source": "detected"
-    },
-    {
-      "tag": "Spiritual endurance",
-      "source": "detected"
-    },
-    {
-      "tag": "Body and soul",
-      "source": "detected"
-    },
-    {
-      "tag": "Heart issues",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "2 Corinthians 4:16-18",

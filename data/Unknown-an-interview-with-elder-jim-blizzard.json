@@ -92,32 +92,7 @@
       "scripture": []
     }
   ],
-  "tags": [
-    {
-      "tag": "Pastoral Ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical Sufficiency",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Identity",
-      "source": "detected"
-    },
-    {
-      "tag": "Ministry and Family Balance",
-      "source": "detected"
-    },
-    {
-      "tag": "Evangelicalism",
-      "source": "detected"
-    },
-    {
-      "tag": "Reformation Theology",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "Ephesians 4:11-16",

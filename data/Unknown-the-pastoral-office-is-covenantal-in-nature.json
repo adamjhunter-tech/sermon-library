@@ -89,27 +89,11 @@
   ],
   "tags": [
     {
-      "tag": "Pastoral ministry",
+      "tag": "church leadership",
       "source": "detected"
     },
     {
-      "tag": "Church leadership",
-      "source": "detected"
-    },
-    {
-      "tag": "Covenantal office",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical standards",
-      "source": "detected"
-    },
-    {
-      "tag": "Church discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "Spiritual authority",
+      "tag": "church discipline",
       "source": "detected"
     }
   ],

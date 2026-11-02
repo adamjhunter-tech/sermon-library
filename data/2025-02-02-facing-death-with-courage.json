@@ -13,14 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/2-2-25-facing-death-with-courage-psalm-23-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "death and dying",
-      "source": "detected"
-    },
-    {
-      "tag": "lament",
-      "source": "detected"
-    },
-    {
       "tag": "hope",
       "source": "detected"
     },
@@ -30,10 +22,6 @@
     },
     {
       "tag": "resurrection",
-      "source": "detected"
-    },
-    {
-      "tag": "comfort",
       "source": "detected"
     }
   ],

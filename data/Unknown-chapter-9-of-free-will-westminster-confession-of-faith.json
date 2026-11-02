@@ -3,7 +3,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "Unknown",
   "session": "Session 1",
-  "series": "From Regeneration to Glorification",
+  "series": "Order of Salvation",
   "series_part": 1,
   "parts": 1,
   "summary": "This lesson introduces a 13-part series on sanctification using Chapter 9 of the Westminster Confession of Faith on the freedom of the will. Pastor Lyro explains that human will is free to act according to our nature (heart), not bound by external forces, and examines the will's condition in five states: before the fall, after the fall, after regeneration, and in glory. The lesson emphasizes that liberty (freedom to choose) differs from ability (capacity to do), and concludes with practical applications including humility, dependence on God's grace, evangelistic prayer, and encouragement in spiritual struggle.",
@@ -96,19 +96,7 @@
   ],
   "tags": [
     {
-      "tag": "Free Will",
-      "source": "detected"
-    },
-    {
-      "tag": "Regeneration",
-      "source": "detected"
-    },
-    {
-      "tag": "Human Nature",
-      "source": "detected"
-    },
-    {
-      "tag": "Salvation",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
@@ -116,7 +104,7 @@
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     }
   ],

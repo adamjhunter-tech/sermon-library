@@ -21,10 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "soteriology",
-      "source": "detected"
-    },
-    {
       "tag": "Word of God",
       "source": "detected"
     },
@@ -33,15 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "calling",
-      "source": "detected"
-    },
-    {
       "tag": "Westminster Larger Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Shorter Catechism",
       "source": "detected"
     }
   ],

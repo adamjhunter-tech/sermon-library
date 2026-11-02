@@ -21,15 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "mission",
+      "tag": "missions",
       "source": "detected"
     },
     {
-      "tag": "Lord's Day",
-      "source": "detected"
-    },
-    {
-      "tag": "corporate worship",
+      "tag": "Sabbath",
       "source": "detected"
     },
     {

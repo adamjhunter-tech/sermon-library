@@ -17,23 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "fear of God",
-      "source": "detected"
-    },
-    {
       "tag": "idolatry",
       "source": "detected"
     },
     {
       "tag": "trust in God",
-      "source": "detected"
-    },
-    {
-      "tag": "Sermon on the Mount",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Shorter Catechism",
       "source": "detected"
     }
   ],

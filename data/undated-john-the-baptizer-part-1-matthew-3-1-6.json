@@ -13,15 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/1-thessalonians-3-1-5-dr-1",
   "tags": [
     {
-      "tag": "John the Baptist",
-      "source": "detected"
-    },
-    {
       "tag": "repentance",
-      "source": "detected"
-    },
-    {
-      "tag": "kingdom of God",
       "source": "detected"
     },
     {
@@ -29,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "Old Testament prophecy",
-      "source": "detected"
-    },
-    {
       "tag": "baptism",
-      "source": "detected"
-    },
-    {
-      "tag": "wilderness",
       "source": "detected"
     }
   ],

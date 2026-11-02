@@ -122,27 +122,11 @@
   ],
   "tags": [
     {
-      "tag": "Gospel proclamation",
+      "tag": "gospel",
       "source": "detected"
     },
     {
-      "tag": "Persuasion",
-      "source": "detected"
-    },
-    {
-      "tag": "Fear of the Lord",
-      "source": "detected"
-    },
-    {
-      "tag": "Love of Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "Holy Spirit and salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "Judgment and accountability",
+      "tag": "love",
       "source": "detected"
     }
   ],

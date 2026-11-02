@@ -12,10 +12,6 @@
   ],
   "tags": [
     {
-      "tag": "life",
-      "source": "detected"
-    },
-    {
       "tag": "parenting",
       "source": "detected"
     },
@@ -25,14 +21,6 @@
     },
     {
       "tag": "covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "fatherhood",
       "source": "detected"
     }
   ],

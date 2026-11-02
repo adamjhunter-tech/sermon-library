@@ -3,7 +3,7 @@
   "speaker": "Unknown Speaker",
   "date": "Unknown",
   "session": "Sunday School",
-  "series": "Anxiety and the Attributes of God",
+  "series": "Anxiety and the Character of God",
   "series_part": 1,
   "parts": 1,
   "summary": "This lesson introduces a nine-part series on anxiety, establishing that anxiety is fundamentally a heart or inner man issue best solved through focus on God's attributes rather than medical solutions alone. Using Matthew 6 and Jeremiah 17, the speaker explains that anxiety is a sinful response rooted in misplaced trust and idolatrous self-reliance, and that true relief comes only through knowing God and meditating on His character.",
@@ -101,27 +101,15 @@
   ],
   "tags": [
     {
-      "tag": "Anxiety",
+      "tag": "anxiety",
       "source": "detected"
     },
     {
-      "tag": "Heart Issue",
+      "tag": "trust in God",
       "source": "detected"
     },
     {
-      "tag": "Trust in God",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Attributes",
-      "source": "detected"
-    },
-    {
-      "tag": "Sin and Repentance",
-      "source": "detected"
-    },
-    {
-      "tag": "Faith",
+      "tag": "faith",
       "source": "detected"
     }
   ],

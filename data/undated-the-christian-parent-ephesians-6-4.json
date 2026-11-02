@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "fatherhood",
-      "source": "detected"
-    },
-    {
       "tag": "family",
       "source": "detected"
     },
@@ -29,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "children",
-      "source": "detected"
-    },
-    {
       "tag": "gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "discipline",
       "source": "detected"
     }
   ],

@@ -101,27 +101,11 @@
   ],
   "tags": [
     {
-      "tag": "Church Government",
+      "tag": "church government",
       "source": "detected"
     },
     {
-      "tag": "Elders",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Leadership",
-      "source": "detected"
-    },
-    {
-      "tag": "Teaching Elders",
-      "source": "detected"
-    },
-    {
-      "tag": "Ruling Elders",
-      "source": "detected"
-    },
-    {
-      "tag": "Presbytery",
+      "tag": "church leadership",
       "source": "detected"
     }
   ],

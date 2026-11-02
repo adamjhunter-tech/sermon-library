@@ -13,19 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/christ-as-prophet-psalm-23-elder-nick-anderson",
   "tags": [
     {
-      "tag": "Christ as prophet",
-      "source": "detected"
-    },
-    {
-      "tag": "Good Shepherd",
-      "source": "detected"
-    },
-    {
       "tag": "Word of God",
       "source": "detected"
     },
     {
-      "tag": "Lord's Day",
+      "tag": "Sabbath",
       "source": "detected"
     },
     {
@@ -34,10 +26,6 @@
     },
     {
       "tag": "obedience",
-      "source": "detected"
-    },
-    {
-      "tag": "eternity",
       "source": "detected"
     }
   ],

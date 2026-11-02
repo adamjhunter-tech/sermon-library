@@ -13,19 +13,11 @@
   "soundcloud_url": null,
   "tags": [
     {
-      "tag": "conscience",
-      "source": "detected"
-    },
-    {
       "tag": "anxiety",
       "source": "detected"
     },
     {
       "tag": "assurance",
-      "source": "detected"
-    },
-    {
-      "tag": "counseling",
       "source": "detected"
     },
     {

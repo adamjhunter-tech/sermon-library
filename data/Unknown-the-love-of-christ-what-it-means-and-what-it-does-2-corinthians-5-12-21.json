@@ -80,27 +80,15 @@
   ],
   "tags": [
     {
-      "tag": "Love of Christ",
+      "tag": "love",
       "source": "detected"
     },
     {
-      "tag": "Motivation",
+      "tag": "atonement",
       "source": "detected"
     },
     {
-      "tag": "Christian Living",
-      "source": "detected"
-    },
-    {
-      "tag": "Atonement",
-      "source": "detected"
-    },
-    {
-      "tag": "Pastoral Ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "Gospel",
+      "tag": "gospel",
       "source": "detected"
     }
   ],

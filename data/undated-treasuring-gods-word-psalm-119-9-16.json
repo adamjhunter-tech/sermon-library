@@ -17,15 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "purity",
-      "source": "detected"
-    },
-    {
       "tag": "parenting",
-      "source": "detected"
-    },
-    {
-      "tag": "meditation",
       "source": "detected"
     }
   ],

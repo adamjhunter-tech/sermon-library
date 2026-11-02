@@ -13,11 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/11-05-23-the-9th-commandment-wlc-143-145-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
-      "tag": "love of neighbor",
+      "tag": "love",
       "source": "detected"
     },
     {
@@ -26,14 +22,6 @@
     },
     {
       "tag": "Westminster Larger Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "moral law",
-      "source": "detected"
-    },
-    {
-      "tag": "speech",
       "source": "detected"
     }
   ],

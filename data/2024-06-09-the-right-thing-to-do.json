@@ -17,14 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "covenant baptism",
-      "source": "detected"
-    },
-    {
-      "tag": "paedobaptism",
-      "source": "detected"
-    },
-    {
       "tag": "covenant theology",
       "source": "detected"
     },
@@ -33,7 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "covenant of grace",
+      "tag": "grace",
       "source": "detected"
     },
     {

@@ -12,14 +12,6 @@
   ],
   "tags": [
     {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
-      "source": "detected"
-    },
-    {
       "tag": "Holy Spirit",
       "source": "detected"
     },
@@ -29,14 +21,6 @@
     },
     {
       "tag": "humility",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
-      "source": "detected"
-    },
-    {
-      "tag": "unity",
       "source": "detected"
     }
   ],

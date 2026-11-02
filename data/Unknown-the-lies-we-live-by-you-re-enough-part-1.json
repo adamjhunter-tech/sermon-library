@@ -73,27 +73,7 @@
   ],
   "tags": [
     {
-      "tag": "Self-esteem",
-      "source": "detected"
-    },
-    {
-      "tag": "God's image",
-      "source": "detected"
-    },
-    {
-      "tag": "Dependence on God",
-      "source": "detected"
-    },
-    {
-      "tag": "False doctrine",
-      "source": "detected"
-    },
-    {
-      "tag": "Gospel truth",
-      "source": "detected"
-    },
-    {
-      "tag": "Worship",
+      "tag": "worship",
       "source": "detected"
     }
   ],

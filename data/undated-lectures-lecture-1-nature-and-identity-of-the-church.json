@@ -21,31 +21,15 @@
       "source": "detected"
     },
     {
-      "tag": "Israel",
-      "source": "detected"
-    },
-    {
-      "tag": "Abrahamic covenant",
-      "source": "detected"
-    },
-    {
       "tag": "covenant theology",
       "source": "detected"
     },
     {
-      "tag": "dispensationalism",
+      "tag": "eschatology",
       "source": "detected"
     },
     {
-      "tag": "premillennialism",
-      "source": "detected"
-    },
-    {
-      "tag": "new covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "Western Reformed Seminary",
+      "tag": "covenant",
       "source": "detected"
     }
   ],

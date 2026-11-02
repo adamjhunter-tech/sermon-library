@@ -3,7 +3,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "Unknown",
   "session": "",
-  "series": "Psalms Series",
+  "series": "Psalms",
   "series_part": null,
   "parts": 1,
   "summary": "This sermon explores Psalm 3, David's prayer during his flight from his son Absalom, examining how David maintained faith and found rest in God despite overwhelming opposition and the consequences of his own sin. Pastor Lyro traces the psalm's four stanzas, showing how David's lament transforms into trust, peace, and ultimately a prayer for blessing even upon his enemies, reflecting the greater David, Jesus Christ.",
@@ -104,26 +104,6 @@
     }
   ],
   "tags": [
-    {
-      "tag": "Prayer and Trust",
-      "source": "detected"
-    },
-    {
-      "tag": "Psalms",
-      "source": "detected"
-    },
-    {
-      "tag": "David's Life and Consequences of Sin",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Protection and Deliverance",
-      "source": "detected"
-    },
-    {
-      "tag": "Forgiveness and Blessing Enemies",
-      "source": "detected"
-    },
     {
       "tag": "Christology",
       "source": "detected"

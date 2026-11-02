@@ -37,11 +37,7 @@
       "source": "detected"
     },
     {
-      "tag": "faithfulness",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian education",
+      "tag": "education",
       "source": "detected"
     }
   ],

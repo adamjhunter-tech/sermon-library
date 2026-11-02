@@ -21,10 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "intermediate state",
-      "source": "detected"
-    },
-    {
       "tag": "heaven",
       "source": "detected"
     },
@@ -33,19 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "anthropology",
-      "source": "detected"
-    },
-    {
       "tag": "resurrection",
-      "source": "detected"
-    },
-    {
-      "tag": "Bible Presbyterian Church",
-      "source": "detected"
-    },
-    {
-      "tag": "premillennialism",
       "source": "detected"
     }
   ],

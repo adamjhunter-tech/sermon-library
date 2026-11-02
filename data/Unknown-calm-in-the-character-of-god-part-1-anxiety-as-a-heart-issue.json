@@ -3,7 +3,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "Unknown",
   "session": "Sunday Service",
-  "series": "Calm in The Character of God",
+  "series": "Anxiety and the Character of God",
   "series_part": 1,
   "parts": 9,
   "summary": "This lesson introduces a nine-part series on anxiety, establishing that anxiety is fundamentally a heart or inner man issue best solved through focus on God's attributes rather than medical solutions. Pastor Lyro contrasts the world's classification of anxiety as a disorder with the biblical view of anxiety as a sinful response rooted in misplaced trust, using the imagery from Jeremiah 17 of two trees under the same heat to illustrate how our spiritual roots determine our response to life's circumstances.",
@@ -91,27 +91,11 @@
   ],
   "tags": [
     {
-      "tag": "Anxiety",
+      "tag": "anxiety",
       "source": "detected"
     },
     {
-      "tag": "God's Character",
-      "source": "detected"
-    },
-    {
-      "tag": "Heart Issue",
-      "source": "detected"
-    },
-    {
-      "tag": "Faith and Trust",
-      "source": "detected"
-    },
-    {
-      "tag": "Idolatry",
-      "source": "detected"
-    },
-    {
-      "tag": "Spiritual Roots",
+      "tag": "idolatry",
       "source": "detected"
     }
   ],

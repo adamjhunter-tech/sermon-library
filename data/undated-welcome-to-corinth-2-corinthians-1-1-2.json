@@ -13,23 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/welcome-to-corinth-pastor-tito",
   "tags": [
     {
-      "tag": "apostle",
-      "source": "detected"
-    },
-    {
       "tag": "grace",
       "source": "detected"
     },
     {
-      "tag": "peace",
-      "source": "detected"
-    },
-    {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "Paul",
       "source": "detected"
     }
   ],

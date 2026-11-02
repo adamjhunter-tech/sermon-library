@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/prayer-part-8-mr-steve-thomas",
   "tags": [
     {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
       "tag": "cultural engagement",
       "source": "detected"
     },
@@ -25,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "speech",
-      "source": "detected"
-    },
-    {
       "tag": "joy",
-      "source": "detected"
-    },
-    {
-      "tag": "bitterness",
       "source": "detected"
     }
   ],

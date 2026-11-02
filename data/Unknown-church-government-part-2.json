@@ -85,27 +85,7 @@
   ],
   "tags": [
     {
-      "tag": "Church Government",
-      "source": "detected"
-    },
-    {
-      "tag": "Ecclesiology",
-      "source": "detected"
-    },
-    {
-      "tag": "Christ as Head of the Church",
-      "source": "detected"
-    },
-    {
-      "tag": "Presbyterian Government",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Authority",
-      "source": "detected"
-    },
-    {
-      "tag": "Ordination Vows",
+      "tag": "church government",
       "source": "detected"
     }
   ],

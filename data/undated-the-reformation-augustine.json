@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "Augustine",
-      "source": "detected"
-    },
-    {
       "tag": "Reformation",
       "source": "detected"
     },
@@ -29,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "Calvin",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Standards",
-      "source": "detected"
-    },
-    {
-      "tag": "conversion",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     }
   ],

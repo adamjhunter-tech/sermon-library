@@ -21,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "Presbyterianism",
-      "source": "detected"
-    },
-    {
       "tag": "church",
-      "source": "detected"
-    },
-    {
-      "tag": "Bible Presbyterian Church",
       "source": "detected"
     },
     {
@@ -38,10 +30,6 @@
     },
     {
       "tag": "elders",
-      "source": "detected"
-    },
-    {
-      "tag": "deacons",
       "source": "detected"
     }
   ],

@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/pride-and-the-christian-pastor-tito-lyro-luke-946-56",
   "tags": [
     {
-      "tag": "pride",
-      "source": "detected"
-    },
-    {
       "tag": "humility",
       "source": "detected"
     },
@@ -29,23 +25,11 @@
       "source": "detected"
     },
     {
-      "tag": "heart",
-      "source": "detected"
-    },
-    {
       "tag": "gospel",
       "source": "detected"
     },
     {
-      "tag": "new year",
-      "source": "detected"
-    },
-    {
       "tag": "sanctification",
-      "source": "detected"
-    },
-    {
-      "tag": "fellowship",
       "source": "detected"
     }
   ],

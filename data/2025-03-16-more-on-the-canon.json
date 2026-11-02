@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/03-16-25-the-word-gods",
   "tags": [
     {
-      "tag": "canon of Scripture",
-      "source": "detected"
-    },
-    {
       "tag": "preaching",
       "source": "detected"
     },
@@ -25,11 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "sufficiency of Scripture",
+      "tag": "Word of God",
       "source": "detected"
     },
     {
-      "tag": "theology",
+      "tag": "Reformed theology",
       "source": "detected"
     }
   ],

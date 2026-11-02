@@ -17,15 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "justification by faith",
-      "source": "detected"
-    },
-    {
-      "tag": "imputation",
-      "source": "detected"
-    },
-    {
-      "tag": "crucifixion",
+      "tag": "justification",
       "source": "detected"
     },
     {
@@ -34,10 +26,6 @@
     },
     {
       "tag": "lordship of Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
       "source": "detected"
     }
   ],

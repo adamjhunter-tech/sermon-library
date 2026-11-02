@@ -109,27 +109,7 @@
   ],
   "tags": [
     {
-      "tag": "Church Government",
-      "source": "detected"
-    },
-    {
-      "tag": "Plurality of Elders",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Authority and Submission",
-      "source": "detected"
-    },
-    {
-      "tag": "Elder Leadership and Rule",
-      "source": "detected"
-    },
-    {
-      "tag": "Presbyterian Ecclesiology",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical Governance",
+      "tag": "church government",
       "source": "detected"
     }
   ],

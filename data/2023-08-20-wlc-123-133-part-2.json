@@ -17,14 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "Fifth Commandment",
-      "source": "detected"
-    },
-    {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
       "tag": "Westminster Larger Catechism",
       "source": "detected"
     },
@@ -33,7 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "church and state",
+      "tag": "government",
       "source": "detected"
     }
   ],

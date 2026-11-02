@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/foundations-lesson-13-soteriology-the-doctrine-of-salvation-glorification-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "soteriology",
-      "source": "detected"
-    },
-    {
       "tag": "election",
       "source": "detected"
     },
@@ -25,19 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "limited atonement",
-      "source": "detected"
-    },
-    {
-      "tag": "Calvinism",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
-      "source": "detected"
-    },
-    {
-      "tag": "covenant of grace",
+      "tag": "atonement",
       "source": "detected"
     }
   ],

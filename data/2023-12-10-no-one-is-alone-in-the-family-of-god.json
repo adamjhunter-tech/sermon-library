@@ -17,7 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "love of Christ",
+      "tag": "love",
       "source": "detected"
     },
     {
@@ -25,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "loneliness",
-      "source": "detected"
-    },
-    {
       "tag": "Holy Spirit",
-      "source": "detected"
-    },
-    {
-      "tag": "Christmas",
       "source": "detected"
     }
   ],

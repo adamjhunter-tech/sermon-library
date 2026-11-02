@@ -121,7 +121,13 @@ function initIndexPage() {
   // Populate filter dropdowns
   const speakers = [...new Set(lessons.map(l => l.speaker).filter(Boolean))].sort();
   const series   = [...new Set(lessons.map(l => l.series).filter(Boolean))].sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:'base'}));
-  const tags     = [...new Set(lessons.flatMap(l => (l.tags||[]).map(t => t.tag)))].filter(t => bookOrder(t) === 999).sort((a,b)=>a.localeCompare(b,undefined,{sensitivity:'base'}));
+  // Only show topics that appear on 5+ lessons (keeps the filter useful)
+  const tagCounts = {};
+  lessons.forEach(l => (l.tags||[]).forEach(t => { tagCounts[t.tag] = (tagCounts[t.tag]||0)+1; }));
+  const tags = Object.entries(tagCounts)
+    .filter(([tag, n]) => n >= 5 && bookOrder(tag) === 999)
+    .sort((a,b) => a[0].localeCompare(b[0], undefined, {sensitivity:'base'}))
+    .map(([tag]) => tag);
   const books    = [...new Set(lessons.flatMap(l => (l.scripture_references||[]).map(r => r.reference.replace(/[:\s]\d.*$/, '').trim())))].filter(b => bookOrder(b) !== 999).sort((a,b)=>bookOrder(a)-bookOrder(b));
 
   populateSelect('speaker-select', speakers);
@@ -137,7 +143,15 @@ function initIndexPage() {
       tag:     document.getElementById('tag-select').value,
       book:    document.getElementById('book-select').value
     };
-    const results = searchLessons(query, filters);
+    let results = searchLessons(query, filters);
+    const sort = document.getElementById('sort-select')?.value || 'date-desc';
+    results = [...results].sort((a, b) => {
+      const la = a.lesson, lb = b.lesson;
+      if (sort === 'date-asc')  return (la.date||'').localeCompare(lb.date||'');
+      if (sort === 'title')     return (la.title||'').localeCompare(lb.title||'', undefined, {sensitivity:'base'});
+      if (sort === 'speaker')   return (la.speaker||'').localeCompare(lb.speaker||'', undefined, {sensitivity:'base'});
+      return (lb.date||'').localeCompare(la.date||''); // date-desc default
+    });
     container.innerHTML = results.length
       ? results.map(renderLessonCard).join('')
       : '<p style="color:var(--muted);padding:2rem 0">No lessons found. Try broadening your search.</p>';

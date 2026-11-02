@@ -82,32 +82,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Refuge in God",
-      "source": "detected"
-    },
-    {
-      "tag": "Divine Justice",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Covenant Faithfulness",
-      "source": "detected"
-    },
-    {
-      "tag": "False Accusation",
-      "source": "detected"
-    },
-    {
-      "tag": "Heart Examination",
-      "source": "detected"
-    },
-    {
-      "tag": "Vengeance Belongs to God",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "Psalm 7",

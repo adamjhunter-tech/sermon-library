@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "Easter",
-      "source": "detected"
-    },
-    {
       "tag": "hope",
       "source": "detected"
     },
@@ -34,10 +30,6 @@
     },
     {
       "tag": "faith",
-      "source": "detected"
-    },
-    {
-      "tag": "Messiah",
       "source": "detected"
     }
   ],

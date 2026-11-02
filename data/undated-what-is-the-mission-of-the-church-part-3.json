@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/what-is-the-mission-of-the-church-3-the-biblical-narrative-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "mission",
+      "tag": "missions",
       "source": "detected"
     },
     {
@@ -21,19 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "redemption",
-      "source": "detected"
-    },
-    {
       "tag": "atonement",
-      "source": "detected"
-    },
-    {
-      "tag": "cross of Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "Great Commission",
       "source": "detected"
     }
   ],

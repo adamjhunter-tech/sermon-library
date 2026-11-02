@@ -21,18 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "confidence",
-      "source": "detected"
-    },
-    {
-      "tag": "forgiveness",
-      "source": "detected"
-    },
-    {
-      "tag": "intercession",
-      "source": "detected"
-    },
-    {
       "tag": "sin",
       "source": "detected"
     },
@@ -41,7 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "perseverance",
+      "tag": "perseverance of the saints",
       "source": "detected"
     }
   ],

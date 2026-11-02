@@ -21,23 +21,11 @@
       "source": "detected"
     },
     {
-      "tag": "Israel",
-      "source": "detected"
-    },
-    {
-      "tag": "Abrahamic covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "new covenant",
+      "tag": "covenant",
       "source": "detected"
     },
     {
       "tag": "covenant theology",
-      "source": "detected"
-    },
-    {
-      "tag": "dispensationalism",
       "source": "detected"
     }
   ],

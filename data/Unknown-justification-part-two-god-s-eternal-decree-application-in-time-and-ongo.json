@@ -106,27 +106,23 @@
   ],
   "tags": [
     {
-      "tag": "Justification",
+      "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
-      "tag": "Soteriology",
+      "tag": "grace",
       "source": "detected"
     },
     {
-      "tag": "Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Faith",
+      "tag": "faith",
       "source": "detected"
     }
   ],

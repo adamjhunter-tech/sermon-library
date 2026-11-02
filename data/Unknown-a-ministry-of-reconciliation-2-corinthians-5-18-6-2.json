@@ -83,27 +83,15 @@
   ],
   "tags": [
     {
-      "tag": "Reconciliation",
+      "tag": "gospel",
       "source": "detected"
     },
     {
-      "tag": "Gospel",
+      "tag": "atonement",
       "source": "detected"
     },
     {
-      "tag": "Atonement",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian ambassadors",
-      "source": "detected"
-    },
-    {
-      "tag": "Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Sin and redemption",
+      "tag": "grace",
       "source": "detected"
     }
   ],

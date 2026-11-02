@@ -112,27 +112,15 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Intercessory Prayer",
+      "tag": "church",
       "source": "detected"
     },
     {
-      "tag": "The Church",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical Priorities",
-      "source": "detected"
-    },
-    {
-      "tag": "Larger Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "Sin unto Death",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     }
   ],

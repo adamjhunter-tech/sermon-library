@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/morning-sermon-022226",
   "tags": [
     {
-      "tag": "new covenant",
+      "tag": "covenant",
       "source": "detected"
     },
     {
@@ -34,18 +34,6 @@
     },
     {
       "tag": "ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "identity in Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "sufficiency of Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "law and gospel",
       "source": "detected"
     }
   ],

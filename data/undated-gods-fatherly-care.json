@@ -17,19 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "faithfulness of God",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
-      "source": "detected"
-    },
-    {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "discipline",
       "source": "detected"
     },
     {
@@ -42,10 +30,6 @@
     },
     {
       "tag": "election",
-      "source": "detected"
-    },
-    {
-      "tag": "Good Shepherd",
       "source": "detected"
     }
   ],

@@ -12,11 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "new covenant",
-      "source": "detected"
-    },
-    {
-      "tag": "wilderness",
+      "tag": "covenant",
       "source": "detected"
     },
     {
@@ -29,10 +25,6 @@
     },
     {
       "tag": "Christology",
-      "source": "detected"
-    },
-    {
-      "tag": "peace",
       "source": "detected"
     }
   ],

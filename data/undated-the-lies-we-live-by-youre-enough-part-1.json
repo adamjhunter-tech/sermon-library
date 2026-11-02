@@ -13,15 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/the-lies-we-live-by-youre-enough-part-1-romans-119-22-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "lies",
-      "source": "detected"
-    },
-    {
-      "tag": "pride",
-      "source": "detected"
-    },
-    {
-      "tag": "general revelation",
+      "tag": "humility",
       "source": "detected"
     },
     {
@@ -30,10 +22,6 @@
     },
     {
       "tag": "idolatry",
-      "source": "detected"
-    },
-    {
-      "tag": "culture",
       "source": "detected"
     }
   ],

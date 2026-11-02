@@ -102,27 +102,15 @@
   ],
   "tags": [
     {
-      "tag": "Regulative Principle of Worship",
+      "tag": "worship",
       "source": "detected"
     },
     {
-      "tag": "Reformed Theology",
+      "tag": "Reformed theology",
       "source": "detected"
     },
     {
-      "tag": "Worship",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Sovereignty",
-      "source": "detected"
-    },
-    {
-      "tag": "Obedience",
-      "source": "detected"
-    },
-    {
-      "tag": "Biblical Authority",
+      "tag": "obedience",
       "source": "detected"
     }
   ],

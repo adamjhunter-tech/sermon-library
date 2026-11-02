@@ -104,27 +104,15 @@
   ],
   "tags": [
     {
-      "tag": "Anxiety",
+      "tag": "anxiety",
       "source": "detected"
     },
     {
-      "tag": "God's Character",
+      "tag": "trust in God",
       "source": "detected"
     },
     {
-      "tag": "Aseity of God",
-      "source": "detected"
-    },
-    {
-      "tag": "Trust in God",
-      "source": "detected"
-    },
-    {
-      "tag": "Divine Simplicity",
-      "source": "detected"
-    },
-    {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     }
   ],

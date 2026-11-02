@@ -13,15 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-conscience-part-2-pastor-tito-lyro-1-corinthians-8",
   "tags": [
     {
-      "tag": "conscience",
-      "source": "detected"
-    },
-    {
       "tag": "assurance",
-      "source": "detected"
-    },
-    {
-      "tag": "heart",
       "source": "detected"
     },
     {
@@ -29,7 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "brotherly love",
+      "tag": "love",
       "source": "detected"
     }
   ],

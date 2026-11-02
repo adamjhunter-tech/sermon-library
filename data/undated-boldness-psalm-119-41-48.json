@@ -13,11 +13,7 @@
   "soundcloud_url": null,
   "tags": [
     {
-      "tag": "boldness",
-      "source": "detected"
-    },
-    {
-      "tag": "gospel proclamation",
+      "tag": "gospel",
       "source": "detected"
     },
     {
@@ -25,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "witnessing",
-      "source": "detected"
-    },
-    {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "Luther",
       "source": "detected"
     }
   ],

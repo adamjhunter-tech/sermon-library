@@ -21,10 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "fear of God",
-      "source": "detected"
-    },
-    {
       "tag": "trust in God",
       "source": "detected"
     },
@@ -33,19 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "praise",
-      "source": "detected"
-    },
-    {
       "tag": "joy",
-      "source": "detected"
-    },
-    {
-      "tag": "David",
-      "source": "detected"
-    },
-    {
-      "tag": "lament",
       "source": "detected"
     }
   ],

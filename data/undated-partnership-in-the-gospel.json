@@ -17,10 +17,6 @@
       "source": "detected"
     },
     {
-      "tag": "leadership",
-      "source": "detected"
-    },
-    {
       "tag": "church",
       "source": "detected"
     },
@@ -38,10 +34,6 @@
     },
     {
       "tag": "humility",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
       "source": "detected"
     }
   ],

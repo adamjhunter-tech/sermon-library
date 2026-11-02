@@ -87,32 +87,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Depravity of Man",
-      "source": "detected"
-    },
-    {
-      "tag": "Atheism and Foolishness",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Sovereignty in Salvation",
-      "source": "detected"
-    },
-    {
-      "tag": "Total Inability",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Psalm 14",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "Psalm 14:1",

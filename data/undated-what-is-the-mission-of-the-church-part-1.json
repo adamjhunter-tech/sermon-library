@@ -25,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "mission",
-      "source": "detected"
-    },
-    {
-      "tag": "Great Commission",
-      "source": "detected"
-    },
-    {
-      "tag": "social justice",
+      "tag": "missions",
       "source": "detected"
     }
   ],

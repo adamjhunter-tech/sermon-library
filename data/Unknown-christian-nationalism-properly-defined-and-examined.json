@@ -123,32 +123,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Christian nationalism",
-      "source": "detected"
-    },
-    {
-      "tag": "Patriotism",
-      "source": "detected"
-    },
-    {
-      "tag": "Government and authority",
-      "source": "detected"
-    },
-    {
-      "tag": "Theocracy and theonomy",
-      "source": "detected"
-    },
-    {
-      "tag": "Church and state relations",
-      "source": "detected"
-    },
-    {
-      "tag": "Secularism and religious neutrality",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "Acts 17:26",

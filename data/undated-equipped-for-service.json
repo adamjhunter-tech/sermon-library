@@ -13,15 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/equipped-for-service-elder-scott-hollander-judges-312-31",
   "tags": [
     {
-      "tag": "salvation",
-      "source": "detected"
-    },
-    {
       "tag": "suffering",
-      "source": "detected"
-    },
-    {
-      "tag": "courage",
       "source": "detected"
     },
     {
@@ -30,14 +22,6 @@
     },
     {
       "tag": "providence",
-      "source": "detected"
-    },
-    {
-      "tag": "spiritual gifts",
-      "source": "detected"
-    },
-    {
-      "tag": "service",
       "source": "detected"
     }
   ],

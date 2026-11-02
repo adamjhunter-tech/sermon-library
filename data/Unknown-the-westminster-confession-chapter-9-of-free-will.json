@@ -3,7 +3,7 @@
   "speaker": "Unknown Speaker",
   "date": "Unknown",
   "session": "Part 1",
-  "series": "Regeneration to Glorification",
+  "series": "Order of Salvation",
   "series_part": 1,
   "parts": 1,
   "summary": "This lesson introduces a 13-part series on the Christian life from regeneration to glorification, focusing on Westminster Confession Chapter 9 concerning the freedom of the human will. The speaker explains that the will is free from external coercion but bound to one's nature or heart, and examines how the will functions in four states: before the fall (able to sin or not sin), after the fall (unable not to sin), after regeneration (able not to sin), and in glory (unable to sin).",
@@ -99,27 +99,11 @@
   ],
   "tags": [
     {
-      "tag": "Free Will",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
-      "tag": "Westminster Confession",
-      "source": "detected"
-    },
-    {
-      "tag": "Nature and Heart",
-      "source": "detected"
-    },
-    {
-      "tag": "Regeneration",
-      "source": "detected"
-    },
-    {
-      "tag": "Soteriology",
-      "source": "detected"
-    },
-    {
-      "tag": "Evangelism",
+      "tag": "evangelism",
       "source": "detected"
     }
   ],

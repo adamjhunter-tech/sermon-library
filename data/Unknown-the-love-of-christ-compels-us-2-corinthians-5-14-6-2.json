@@ -92,27 +92,15 @@
   ],
   "tags": [
     {
-      "tag": "Death to Self",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
-      "tag": "Regeneration",
+      "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "Justification",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian Living",
-      "source": "detected"
-    },
-    {
-      "tag": "Love of Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "Reconciliation",
+      "tag": "love",
       "source": "detected"
     }
   ],

@@ -20,19 +20,7 @@
       "source": "detected"
     },
     {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
-      "tag": "sexuality",
-      "source": "detected"
-    },
-    {
       "tag": "apologetics",
-      "source": "detected"
-    },
-    {
-      "tag": "Christian living",
       "source": "detected"
     }
   ],

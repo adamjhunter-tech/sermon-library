@@ -94,23 +94,15 @@
       "source": "detected"
     },
     {
-      "tag": "Larger Catechism",
+      "tag": "Westminster Larger Catechism",
       "source": "detected"
     },
     {
-      "tag": "Sacraments",
+      "tag": "church discipline",
       "source": "detected"
     },
     {
-      "tag": "Church Discipline",
-      "source": "detected"
-    },
-    {
-      "tag": "Self-examination",
-      "source": "detected"
-    },
-    {
-      "tag": "Assurance of Salvation",
+      "tag": "assurance",
       "source": "detected"
     }
   ],

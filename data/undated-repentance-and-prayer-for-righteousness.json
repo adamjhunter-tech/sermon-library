@@ -21,10 +21,6 @@
       "source": "detected"
     },
     {
-      "tag": "righteousness",
-      "source": "detected"
-    },
-    {
       "tag": "covenant",
       "source": "detected"
     },
@@ -38,18 +34,6 @@
     },
     {
       "tag": "sin",
-      "source": "detected"
-    },
-    {
-      "tag": "David",
-      "source": "detected"
-    },
-    {
-      "tag": "lament",
-      "source": "detected"
-    },
-    {
-      "tag": "Hebrew poetry",
       "source": "detected"
     }
   ],

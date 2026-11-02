@@ -13,27 +13,15 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/complete-joy-2-john-12-13-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "reconciliation",
-      "source": "detected"
-    },
-    {
       "tag": "joy",
       "source": "detected"
     },
     {
-      "tag": "church unity",
-      "source": "detected"
-    },
-    {
-      "tag": "community",
+      "tag": "church",
       "source": "detected"
     },
     {
       "tag": "baptism",
-      "source": "detected"
-    },
-    {
-      "tag": "witnessing",
       "source": "detected"
     }
   ],

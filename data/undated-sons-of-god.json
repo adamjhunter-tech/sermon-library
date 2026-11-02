@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/sons-of-god-pastor-tito-lyro-matthew-59",
   "tags": [
     {
-      "tag": "Beatitudes",
-      "source": "detected"
-    },
-    {
       "tag": "adoption",
       "source": "detected"
     },
@@ -29,11 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "church unity",
-      "source": "detected"
-    },
-    {
-      "tag": "reconciliation",
+      "tag": "church",
       "source": "detected"
     },
     {

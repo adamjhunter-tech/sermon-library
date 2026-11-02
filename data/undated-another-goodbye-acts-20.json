@@ -13,14 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/another-goodbye-pastor-tito-lyro-acts-2032-38",
   "tags": [
     {
-      "tag": "community",
-      "source": "detected"
-    },
-    {
-      "tag": "unity",
-      "source": "detected"
-    },
-    {
       "tag": "Word of God",
       "source": "detected"
     },
@@ -37,7 +29,7 @@
       "source": "detected"
     },
     {
-      "tag": "brotherly love",
+      "tag": "love",
       "source": "detected"
     }
   ],

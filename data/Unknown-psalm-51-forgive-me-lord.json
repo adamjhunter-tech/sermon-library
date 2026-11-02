@@ -93,27 +93,19 @@
   ],
   "tags": [
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
-      "tag": "Forgiveness",
+      "tag": "grace",
       "source": "detected"
     },
     {
-      "tag": "Grace",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
-      "tag": "Confession",
-      "source": "detected"
-    },
-    {
-      "tag": "Sanctification",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Discipline",
+      "tag": "church discipline",
       "source": "detected"
     }
   ],

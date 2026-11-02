@@ -17,15 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "theology",
+      "tag": "Reformed theology",
       "source": "detected"
     },
     {
-      "tag": "Westminster Standards",
-      "source": "detected"
-    },
-    {
-      "tag": "death and dying",
+      "tag": "Westminster Confession of Faith",
       "source": "detected"
     },
     {
@@ -33,19 +29,11 @@
       "source": "detected"
     },
     {
-      "tag": "original sin",
+      "tag": "sin",
       "source": "detected"
     },
     {
       "tag": "Westminster Larger Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "pilgrimage",
-      "source": "detected"
-    },
-    {
-      "tag": "second coming",
       "source": "detected"
     }
   ],

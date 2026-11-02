@@ -3,7 +3,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "Unknown",
   "session": "Sunday School",
-  "series": "Soteriology (Doctrine of Salvation)",
+  "series": "Order of Salvation",
   "series_part": 2,
   "parts": 1,
   "summary": "This lesson explores the doctrine of effectual calling and regeneration—how God changes human nature to enable belief in Christ. Drawing from Westminster Confession of Faith Chapter 10, the session distinguishes between the general call of the Gospel (offered to all) and the special effectual call (given to the elect), and explains that regeneration must logically precede faith, though both may occur simultaneously in time.",
@@ -101,27 +101,19 @@
   ],
   "tags": [
     {
-      "tag": "Effectual Calling",
+      "tag": "effectual calling",
       "source": "detected"
     },
     {
-      "tag": "Regeneration",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
-      "tag": "Salvation",
+      "tag": "Reformed theology",
       "source": "detected"
     },
     {
-      "tag": "Reformed Theology",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Confession",
-      "source": "detected"
-    },
-    {
-      "tag": "Grace",
+      "tag": "grace",
       "source": "detected"
     }
   ],

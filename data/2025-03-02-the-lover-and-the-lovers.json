@@ -21,11 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "covenant faithfulness",
-      "source": "detected"
-    },
-    {
-      "tag": "love of God",
+      "tag": "love",
       "source": "detected"
     },
     {
@@ -34,10 +30,6 @@
     },
     {
       "tag": "grace",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Shorter Catechism",
       "source": "detected"
     }
   ],

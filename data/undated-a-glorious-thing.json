@@ -4,7 +4,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": null,
   "session": "AM",
-  "series": "The Ephesian Church",
+  "series": "Ephesians",
   "series_part": null,
   "parts": 1,
   "source_files": [
@@ -14,14 +14,6 @@
   "tags": [
     {
       "tag": "marriage",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
-      "tag": "husband",
       "source": "detected"
     },
     {

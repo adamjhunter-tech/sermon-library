@@ -13,7 +13,7 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/the-christian-child-pastor-tito-lyro-ephesians-61-4",
   "tags": [
     {
-      "tag": "children",
+      "tag": "family",
       "source": "detected"
     },
     {
@@ -25,15 +25,7 @@
       "source": "detected"
     },
     {
-      "tag": "family",
-      "source": "detected"
-    },
-    {
       "tag": "baptism",
-      "source": "detected"
-    },
-    {
-      "tag": "new creation",
       "source": "detected"
     }
   ],

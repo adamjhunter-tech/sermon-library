@@ -113,27 +113,7 @@
   ],
   "tags": [
     {
-      "tag": "Lord's Prayer",
-      "source": "detected"
-    },
-    {
-      "tag": "Westminster Catechism",
-      "source": "detected"
-    },
-    {
-      "tag": "Prayer",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Glory",
-      "source": "detected"
-    },
-    {
-      "tag": "Petitions",
-      "source": "detected"
-    },
-    {
-      "tag": "Proper Worship",
+      "tag": "prayer",
       "source": "detected"
     }
   ],

@@ -17,19 +17,7 @@
       "source": "detected"
     },
     {
-      "tag": "Christ as prophet",
-      "source": "detected"
-    },
-    {
-      "tag": "anointing",
-      "source": "detected"
-    },
-    {
       "tag": "Christology",
-      "source": "detected"
-    },
-    {
-      "tag": "Messiah",
       "source": "detected"
     },
     {
@@ -42,10 +30,6 @@
     },
     {
       "tag": "incarnation",
-      "source": "detected"
-    },
-    {
-      "tag": "baptism of Jesus",
       "source": "detected"
     }
   ],

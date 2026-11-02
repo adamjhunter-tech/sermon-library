@@ -110,27 +110,19 @@
   ],
   "tags": [
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
-      "tag": "Order of Salvation",
+      "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "Justification",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
-      "tag": "Regeneration",
-      "source": "detected"
-    },
-    {
-      "tag": "Mortification of Sin",
-      "source": "detected"
-    },
-    {
-      "tag": "Holiness",
+      "tag": "sin",
       "source": "detected"
     }
   ],

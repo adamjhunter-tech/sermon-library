@@ -13,10 +13,6 @@
   "soundcloud_url": "https://soundcloud.com/olympiabp/05-21-23-waiting-for-the-lord-psalm-130-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "forgiveness",
-      "source": "detected"
-    },
-    {
       "tag": "hope",
       "source": "detected"
     },
@@ -25,15 +21,7 @@
       "source": "detected"
     },
     {
-      "tag": "depression",
-      "source": "detected"
-    },
-    {
       "tag": "sin",
-      "source": "detected"
-    },
-    {
-      "tag": "redemption",
       "source": "detected"
     }
   ],

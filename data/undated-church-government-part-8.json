@@ -17,23 +17,11 @@
       "source": "detected"
     },
     {
-      "tag": "deacons",
-      "source": "detected"
-    },
-    {
       "tag": "elders",
       "source": "detected"
     },
     {
-      "tag": "mercy ministry",
-      "source": "detected"
-    },
-    {
-      "tag": "church unity",
-      "source": "detected"
-    },
-    {
-      "tag": "Presbyterianism",
+      "tag": "church",
       "source": "detected"
     }
   ],

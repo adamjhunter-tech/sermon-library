@@ -108,32 +108,7 @@
       ]
     }
   ],
-  "tags": [
-    {
-      "tag": "Christian Living",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Glory",
-      "source": "detected"
-    },
-    {
-      "tag": "Purpose and Aim",
-      "source": "detected"
-    },
-    {
-      "tag": "Character Development",
-      "source": "detected"
-    },
-    {
-      "tag": "Faith in Christ",
-      "source": "detected"
-    },
-    {
-      "tag": "Pleasing God",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "2 Corinthians 5:6-11",

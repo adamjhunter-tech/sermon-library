@@ -18,14 +18,6 @@
       "source": "detected"
     },
     {
-      "tag": "authority",
-      "source": "detected"
-    },
-    {
-      "tag": "submission",
-      "source": "detected"
-    },
-    {
       "tag": "ecclesiology",
       "source": "detected"
     },
@@ -43,10 +35,6 @@
     },
     {
       "tag": "elders",
-      "source": "detected"
-    },
-    {
-      "tag": "deacons",
       "source": "detected"
     }
   ],

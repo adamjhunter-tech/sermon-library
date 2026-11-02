@@ -87,32 +87,7 @@
       "scripture": []
     }
   ],
-  "tags": [
-    {
-      "tag": "Dementia and Alzheimer's",
-      "source": "detected"
-    },
-    {
-      "tag": "Marriage and Spousal Care",
-      "source": "detected"
-    },
-    {
-      "tag": "God's Faithfulness",
-      "source": "detected"
-    },
-    {
-      "tag": "Church Ministry and Caregiving",
-      "source": "detected"
-    },
-    {
-      "tag": "Suffering and Faith",
-      "source": "detected"
-    },
-    {
-      "tag": "Testimony",
-      "source": "detected"
-    }
-  ],
+  "tags": [],
   "scripture_references": [
     {
       "reference": "2 Corinthians 4:16-18",

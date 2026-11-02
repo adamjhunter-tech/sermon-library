@@ -13,23 +13,11 @@
   "soundcloud_url": "https://soundcloud.com/user-732503870/02-15-23-your-truth-and-other-lies-its-all-about-love-luke-18_15-23-pastor-tito-lyro",
   "tags": [
     {
-      "tag": "lies",
-      "source": "detected"
-    },
-    {
-      "tag": "truth",
-      "source": "detected"
-    },
-    {
       "tag": "resurrection",
       "source": "detected"
     },
     {
       "tag": "gospel",
-      "source": "detected"
-    },
-    {
-      "tag": "postmodernism",
       "source": "detected"
     }
   ],
