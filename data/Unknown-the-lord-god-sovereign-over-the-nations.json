@@ -110,7 +110,24 @@
       "scripture": []
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "sovereignty of God",
+      "source": "detected"
+    },
+    {
+      "tag": "providence",
+      "source": "detected"
+    },
+    {
+      "tag": "government",
+      "source": "detected"
+    },
+    {
+      "tag": "eschatology",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Philippians 2:5-11",

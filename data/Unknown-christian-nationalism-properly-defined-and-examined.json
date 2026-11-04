@@ -123,7 +123,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "government",
+      "source": "detected"
+    },
+    {
+      "tag": "cultural engagement",
+      "source": "detected"
+    },
+    {
+      "tag": "church",
+      "source": "detected"
+    },
+    {
+      "tag": "discernment",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Acts 17:26",

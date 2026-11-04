@@ -11,7 +11,24 @@
     "WRS 2021 Ron Taber Lecture Series_ Strange New Worlds - Carl Trueman 4 or 4.txt"
   ],
   "soundcloud_url": "https://soundcloud.com/user-732503870/wrs-2021-ron-taber-lecture-series-strange-new-world-carl-trueman-1-of-3",
-  "tags": [],
+  "tags": [
+    {
+      "tag": "cultural engagement",
+      "source": "detected"
+    },
+    {
+      "tag": "discernment",
+      "source": "detected"
+    },
+    {
+      "tag": "church",
+      "source": "detected"
+    },
+    {
+      "tag": "apologetics",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [],
   "outline": [
     "Introduction: Concluding the lecture series",

@@ -79,7 +79,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "sanctification",
+      "source": "detected"
+    },
+    {
+      "tag": "hope",
+      "source": "detected"
+    },
+    {
+      "tag": "covenant",
+      "source": "detected"
+    },
+    {
+      "tag": "glorification",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "2 Corinthians 4:16-18",

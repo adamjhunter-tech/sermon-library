@@ -87,7 +87,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "sin",
+      "source": "detected"
+    },
+    {
+      "tag": "idolatry",
+      "source": "detected"
+    },
+    {
+      "tag": "Word of God",
+      "source": "detected"
+    },
+    {
+      "tag": "wisdom",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Psalm 14:1",

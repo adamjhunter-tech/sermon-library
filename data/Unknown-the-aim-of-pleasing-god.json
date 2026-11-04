@@ -108,7 +108,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "obedience",
+      "source": "detected"
+    },
+    {
+      "tag": "discipleship",
+      "source": "detected"
+    },
+    {
+      "tag": "sanctification",
+      "source": "detected"
+    },
+    {
+      "tag": "faith",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "2 Corinthians 5:6-11",

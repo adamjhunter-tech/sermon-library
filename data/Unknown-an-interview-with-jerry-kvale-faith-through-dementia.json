@@ -87,7 +87,24 @@
       "scripture": []
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "suffering",
+      "source": "detected"
+    },
+    {
+      "tag": "faith",
+      "source": "detected"
+    },
+    {
+      "tag": "family",
+      "source": "detected"
+    },
+    {
+      "tag": "perseverance of the saints",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "2 Corinthians 4:16-18",

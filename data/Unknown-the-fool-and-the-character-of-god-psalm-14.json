@@ -99,7 +99,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "attributes of God",
+      "source": "detected"
+    },
+    {
+      "tag": "sin",
+      "source": "detected"
+    },
+    {
+      "tag": "wisdom",
+      "source": "detected"
+    },
+    {
+      "tag": "idolatry",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Psalm 14",

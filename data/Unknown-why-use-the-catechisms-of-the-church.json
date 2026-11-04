@@ -95,7 +95,24 @@
       "scripture": []
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "Westminster Larger Catechism",
+      "source": "detected"
+    },
+    {
+      "tag": "discipleship",
+      "source": "detected"
+    },
+    {
+      "tag": "education",
+      "source": "detected"
+    },
+    {
+      "tag": "church",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "2 Timothy 2:1-2",

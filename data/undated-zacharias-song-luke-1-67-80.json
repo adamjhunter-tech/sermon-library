@@ -11,7 +11,24 @@
     "Zacharias' Song - GUEST SPEAKER_ Pastor Chris Lensch - Zacharias' Song.txt"
   ],
   "soundcloud_url": "https://soundcloud.com/olympiabp/zacharias-song-guest-speaker-pastor-chris-lensch-zacharias-song",
-  "tags": [],
+  "tags": [
+    {
+      "tag": "incarnation",
+      "source": "detected"
+    },
+    {
+      "tag": "covenant",
+      "source": "detected"
+    },
+    {
+      "tag": "hope",
+      "source": "detected"
+    },
+    {
+      "tag": "Advent",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Luke 1:67-80",

@@ -82,7 +82,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "sovereignty of God",
+      "source": "detected"
+    },
+    {
+      "tag": "providence",
+      "source": "detected"
+    },
+    {
+      "tag": "trust in God",
+      "source": "detected"
+    },
+    {
+      "tag": "judgment",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Psalm 7",

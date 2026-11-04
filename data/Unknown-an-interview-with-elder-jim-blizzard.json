@@ -92,7 +92,20 @@
       "scripture": []
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "church leadership",
+      "source": "detected"
+    },
+    {
+      "tag": "ministry",
+      "source": "detected"
+    },
+    {
+      "tag": "calling",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "Ephesians 4:11-16",

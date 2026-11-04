@@ -67,7 +67,24 @@
       ]
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "tag": "church",
+      "source": "detected"
+    },
+    {
+      "tag": "repentance",
+      "source": "detected"
+    },
+    {
+      "tag": "love",
+      "source": "detected"
+    },
+    {
+      "tag": "discipleship",
+      "source": "detected"
+    }
+  ],
   "scripture_references": [
     {
       "reference": "2 Corinthians 6:3-13",
