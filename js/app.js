@@ -65,6 +65,8 @@ function searchLessons(query, filters) {
   if (filters.book)    results = results.filter(r =>
     (r.lesson.scripture_references||[]).some(s => s.reference.startsWith(filters.book + ' ') || s.reference.startsWith(filters.book + ':'))
   );
+  if (filters.dateFrom) results = results.filter(r => (r.lesson.date || '') >= filters.dateFrom);
+  if (filters.dateTo)   results = results.filter(r => (r.lesson.date || '') <= filters.dateTo);
   return results.map(r => r.lesson);
 }
 
@@ -141,7 +143,9 @@ function initIndexPage() {
       speaker: document.getElementById('speaker-select').value,
       series:  document.getElementById('series-select').value,
       tag:     document.getElementById('tag-select').value,
-      book:    document.getElementById('book-select').value
+      book:    document.getElementById('book-select').value,
+      dateFrom: document.getElementById('date-from')?.value || '',
+      dateTo:   document.getElementById('date-to')?.value || ''
     };
     let results = searchLessons(query, filters);
     const sort = document.getElementById('sort-select')?.value || 'date-desc';
@@ -159,9 +163,13 @@ function initIndexPage() {
 
   searchEl.addEventListener('input', render);
   document.querySelectorAll('.filter-select').forEach(el => el.addEventListener('change', render));
+  document.getElementById('date-from')?.addEventListener('change', render);
+  document.getElementById('date-to')?.addEventListener('change', render);
   clearBtn.addEventListener('click', () => {
     searchEl.value = '';
     document.querySelectorAll('.filter-select').forEach(el => el.value = '');
+    const df = document.getElementById('date-from'); if (df) df.value = '';
+    const dt = document.getElementById('date-to');   if (dt) dt.value = '';
     render();
   });
 
