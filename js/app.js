@@ -146,11 +146,10 @@ function initIndexPage() {
     let results = searchLessons(query, filters);
     const sort = document.getElementById('sort-select')?.value || 'date-desc';
     results = [...results].sort((a, b) => {
-      const la = a.lesson, lb = b.lesson;
-      if (sort === 'date-asc')  return (la.date||'').localeCompare(lb.date||'');
-      if (sort === 'title')     return (la.title||'').localeCompare(lb.title||'', undefined, {sensitivity:'base'});
-      if (sort === 'speaker')   return (la.speaker||'').localeCompare(lb.speaker||'', undefined, {sensitivity:'base'});
-      return (lb.date||'').localeCompare(la.date||''); // date-desc default
+      if (sort === 'date-asc')  return (a.date||'').localeCompare(b.date||'');
+      if (sort === 'title')     return (a.title||'').localeCompare(b.title||'', undefined, {sensitivity:'base'});
+      if (sort === 'speaker')   return (a.speaker||'').localeCompare(b.speaker||'', undefined, {sensitivity:'base'});
+      return (b.date||'').localeCompare(a.date||''); // date-desc default
     });
     container.innerHTML = results.length
       ? results.map(renderLessonCard).join('')
