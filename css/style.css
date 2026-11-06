@@ -589,3 +589,16 @@ details.series-item[open] > .series-item-summary { background: var(--accent-lt);
 input[type="date"].filter-select {
   min-width: 140px;
 }
+
+.top-outline {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1.5rem;
+}
+.top-outline h3 { margin: 0 0 .5rem; font-size: 1rem; }
+.top-outline ol { margin: 0; padding-left: 1.25rem; }
+.top-outline li { margin: .25rem 0; }
+.top-outline a { color: var(--accent); text-decoration: none; }
+.top-outline a:hover { text-decoration: underline; }

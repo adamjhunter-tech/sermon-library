@@ -437,6 +437,17 @@ function initLessonPage() {
     }
   }
 
+  // Render top outline (hyperlinked, before transcript)
+  const topOutline = document.getElementById('top-outline');
+  if (topOutline && lesson.outline && lesson.outline.length) {
+    topOutline.innerHTML = `<nav class="top-outline">
+      <h3>Outline</h3>
+      <ol>
+        ${lesson.outline.map((pt, i) => `<li><a href="#section-${i}">${esc(pt.title)}</a></li>`).join('')}
+      </ol>
+    </nav>`;
+  }
+
   // Render scripture references
   const refsEl = document.getElementById('refs-body');
   if (refsEl && lesson.scripture_references && lesson.scripture_references.length) {
