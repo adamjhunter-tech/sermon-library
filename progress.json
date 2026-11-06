@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 22:12",
+  "generated": "2026-11-06 23:10",
   "total": 727,
-  "done": 667,
-  "remaining": 60,
+  "done": 670,
+  "remaining": 57,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -205,14 +205,14 @@
       "date": "2026-08-09",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/proverbs-3-1-10-trust-in-the",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 6: How Long, Lord? (Pastor Tito Lyro)",
       "date": "2026-08-09",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-6-how-long-lord-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 12: of Adoption (Elder Nick Anderson)",
@@ -226,7 +226,7 @@
       "date": "2026-08-02",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/treat-him-as-an-unbeliever",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 30: Joy Comes in the Morning (Pastor Tito Lyro)",
