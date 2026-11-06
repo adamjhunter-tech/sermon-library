@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 19:45",
+  "generated": "2026-11-06 20:12",
   "total": 727,
-  "done": 655,
-  "remaining": 72,
+  "done": 659,
+  "remaining": 68,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -44,7 +44,7 @@
       "date": "2026-10-18",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-9-the-grace-of",
-      "done": false
+      "done": true
     },
     {
       "title": "Anselm of Canterbury (Elder Scott Hollander)",
@@ -79,7 +79,7 @@
       "date": "2026-10-04",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-preeminence-of-christ",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 17: of the Perseverance of the Saints (Elder Nick Anderson)",
@@ -93,14 +93,14 @@
       "date": "2026-09-20",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-8-9-pastor-tito",
-      "done": false
+      "done": true
     },
     {
       "title": "2 Corinthians 7-13-16 (Pastor Tito Lyro)",
       "date": "2026-09-20",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-7-13-16-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "One Doctrine, Two Fruits (Pastor Tito Lyro)",
