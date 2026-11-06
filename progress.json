@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 09:13",
+  "generated": "2026-11-06 10:13",
   "total": 727,
-  "done": 627,
-  "remaining": 100,
+  "done": 631,
+  "remaining": 96,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -786,7 +786,7 @@
       "date": "2025-12-07",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/prayer-part-6-mr-alex-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "The Incarnation Is A Model For Humility (Pastor Tito Lyro)",
@@ -814,7 +814,7 @@
       "date": "2025-11-30",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/prayer-part-4-mr-isaiah-couch",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 100: Serve the Lord with Gladness (Pastor Tito Lyro)",
@@ -1010,7 +1010,7 @@
       "date": "2025-08-25",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/church-government-part-5",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 127: Unless the LORD Does it (Pastor Tito Lyro)",
@@ -1024,7 +1024,7 @@
       "date": "2025-08-18",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/church-government-part-4",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 23: The Goodness of The Lord (Pastor Tito Lyro)",
