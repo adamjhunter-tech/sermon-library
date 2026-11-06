@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 08:15",
+  "generated": "2026-11-06 09:13",
   "total": 727,
-  "done": 624,
-  "remaining": 103,
+  "done": 627,
+  "remaining": 100,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -471,7 +471,7 @@
       "date": "2026-04-12",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/calm-in-the-character-of-god",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 7 (Pastor Tito Lyro)",
@@ -800,14 +800,14 @@
       "date": "2025-11-30",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/prayer-part-3-elder-nick-anderson",
-      "done": false
+      "done": true
     },
     {
       "title": "Question & Answer 183-184 (Pastor Tito Lyro)",
       "date": "2025-11-30",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/prayer-part-5-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Question & Answer 182 (Mr. Isaiah Couch)",
