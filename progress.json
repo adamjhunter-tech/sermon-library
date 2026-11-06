@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-05 14:39",
+  "generated": "2026-11-06 03:32",
   "total": 727,
-  "done": 607,
-  "remaining": 120,
+  "done": 610,
+  "remaining": 117,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -240,7 +240,7 @@
       "date": "2026-07-26",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/chapter-11-of-justification-1",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 51: Forgive Me Lord (Pastor Tito Lyro)",
@@ -254,7 +254,7 @@
       "date": "2026-07-19",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/chapter-11-of-justification",
-      "done": false
+      "done": true
     },
     {
       "title": "Proverbs 29:25: The Fear of Man (Pastor Tito Lyro)",
@@ -296,7 +296,7 @@
       "date": "2026-07-05",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/the-westminster-standards",
-      "done": false
+      "done": true
     },
     {
       "title": "An Interview with Jerry Kvale",
