@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 21:10",
+  "generated": "2026-11-06 22:12",
   "total": 727,
-  "done": 663,
-  "remaining": 64,
+  "done": 667,
+  "remaining": 60,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -163,14 +163,14 @@
       "date": "2026-08-23",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-power-of-the-gospel-in",
-      "done": false
+      "done": true
     },
     {
       "title": "Don't Be Unevenly Yoked: 2 Corinthians 6:14-7:1 (Pastor Tito Lyro)",
       "date": "2026-08-23",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/dont-be-unevenly-yoked-2",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 13: of Sanctification - Part Two (Mr. Alex Lyro)",
@@ -184,14 +184,14 @@
       "date": "2026-08-16",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-4-1-7-treausure",
-      "done": false
+      "done": true
     },
     {
       "title": "2 Corinthians 4:1-7: A Review - Treasure in Jars of Clay - Part One (Pastor Tito Lyro)",
       "date": "2026-08-16",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-4-1-7-a-review",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 13: of Sanctification - Part One (Mr. Alex Lyro)",
