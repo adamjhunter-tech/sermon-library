@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 16:03",
+  "generated": "2026-11-06 17:06",
   "total": 727,
-  "done": 645,
-  "remaining": 82,
+  "done": 648,
+  "remaining": 79,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -4174,7 +4174,7 @@
       "date": "2021-11-16",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/lessons-on-the-school-of-prayer-3-worthy-petitions",
-      "done": false
+      "done": true
     },
     {
       "title": "FOUNDATIONS - Lesson 6 - The Canon of Scripture - Pastor Tito Lyro",
@@ -4328,7 +4328,7 @@
       "date": "2021-09-19",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/foundations-lesson-4-the-doctrine-of-the-word-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "The Whole Christ - Pastor Tito Lyro - 1 John 1:1-4",
@@ -4342,7 +4342,7 @@
       "date": "2021-09-12",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/foundations-lesson-3-anthropology-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Christian Certainty - Pastor Tito Lyro - 1 John 1",
