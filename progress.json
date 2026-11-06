@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 18:07",
+  "generated": "2026-11-06 19:45",
   "total": 727,
-  "done": 652,
-  "remaining": 75,
+  "done": 655,
+  "remaining": 72,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -30,7 +30,7 @@
       "date": "2026-10-25",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-10-1-5-every",
-      "done": false
+      "done": true
     },
     {
       "title": "Peter Abelard (Elder Nick Anderson)",
@@ -58,7 +58,7 @@
       "date": "2026-10-11",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-8-1-15-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "Gregory The Great (Pastor Tito Lyro)",
@@ -72,7 +72,7 @@
       "date": "2026-10-04",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-8-8-9-he-who-was",
-      "done": false
+      "done": true
     },
     {
       "title": "The Preeminence of Christ (Pastor Dennis Leman)",
