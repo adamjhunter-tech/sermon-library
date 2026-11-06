@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 05:58",
+  "generated": "2026-11-06 06:07",
   "total": 727,
-  "done": 615,
-  "remaining": 112,
+  "done": 619,
+  "remaining": 108,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -352,7 +352,7 @@
       "date": "2026-06-14",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/calm-in-the-character-of-god-5",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in the Character of God: Omnipresence (Elder Nick Anderson)",
@@ -387,21 +387,21 @@
       "date": "2026-05-31",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/an-interview-with-pastor-doug",
-      "done": false
+      "done": true
     },
     {
       "title": "An Interview with Elder Jim Blizzard",
       "date": "2026-05-31",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/an-interview-with-elder-jim",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in the Character of God: Sovereignty (Mr. Isaiah Couch)",
       "date": "2026-05-24",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/calm-in-the-character-of-god-3",
-      "done": false
+      "done": true
     },
     {
       "title": "The Spring of Life (Pastor Doug Leaman)",
