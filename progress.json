@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 03:32",
+  "generated": "2026-11-06 05:08",
   "total": 727,
-  "done": 610,
-  "remaining": 117,
+  "done": 614,
+  "remaining": 113,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -275,7 +275,7 @@
       "date": "2026-07-12",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/the-westminster-standards-1",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 14: The Foolish Heart (Pastor Tito Lyro)",
@@ -303,7 +303,7 @@
       "date": "2026-07-05",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/an-interview-with-jerry-kvale",
-      "done": false
+      "done": true
     },
     {
       "title": "The Pastoral Office is Covenantal in Nature (Pastor Renan Pereira)",
@@ -317,7 +317,7 @@
       "date": "2026-06-28",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/christian-nationalism-properly",
-      "done": false
+      "done": true
     },
     {
       "title": "A Ministry of Reconciliation: 2 Corinthians 5:18-6:2 (Pastor Tito Lyro)",
@@ -331,7 +331,7 @@
       "date": "2026-06-21",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/american-presbyterians-and-the",
-      "done": false
+      "done": true
     },
     {
       "title": "The Lord God: Sovereign Over The Nations: Philippians 2-5-9 (Pastor Tito Lyro)",
