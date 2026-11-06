@@ -556,6 +556,9 @@ details.series-item[open] > .series-item-summary { background: var(--accent-lt);
   .lesson-sidebar { position: static; max-height: none; }
   .ref-entry { grid-template-columns: 1fr; }
   .topic-entry { grid-template-columns: 1fr; }
+  /* Move outline to top on mobile; hide sidebar outline panel */
+  .top-outline { order: -1; }
+  .lesson-sidebar .sidebar-panel:first-child { display: none; }
 }
 @media (max-width: 640px) {
   .site-header { flex-direction: column; align-items: flex-start; gap: .5rem; }
