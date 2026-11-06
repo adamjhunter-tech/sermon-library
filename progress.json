@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 20:12",
+  "generated": "2026-11-06 21:10",
   "total": 727,
-  "done": 659,
-  "remaining": 68,
+  "done": 663,
+  "remaining": 64,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -107,7 +107,7 @@
       "date": "2026-09-20",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/one-doctrine-two-fruits-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 16: of Good Works (Mr. Isaiah Couch)",
@@ -121,7 +121,7 @@
       "date": "2026-09-13",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-7-8-12-godly",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 15: of Repentance Unto Life - Part Two (Mr. Nick Newton)",
@@ -135,7 +135,7 @@
       "date": "2026-09-06",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-7-2-12-the-god",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 15: of Repentance unto Life  - Part One (Mr. Nick Newton)",
@@ -149,7 +149,7 @@
       "date": "2026-08-30",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-46-a-very-present-help",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 14: of Saving Faith (Mr. Steve Thomas)",
