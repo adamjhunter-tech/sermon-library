@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 15:08",
+  "generated": "2026-11-06 16:03",
   "total": 727,
-  "done": 642,
-  "remaining": 85,
+  "done": 645,
+  "remaining": 82,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -3215,7 +3215,7 @@
       "date": "2022-10-30",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/introduction-to-the-minor-prophets-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 119:105-112: A Lamp to our Feet (Pastor Tito Lyro)",
@@ -4188,7 +4188,7 @@
       "date": "2021-11-14",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/lessons-from-the-school-of-prayer-2",
-      "done": false
+      "done": true
     },
     {
       "title": "Overcoming the World by Faith - Pastor Tito Lyro - 1 John 2:15-17",
@@ -4202,7 +4202,7 @@
       "date": "2021-11-07",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/lessons-from-the-school-of-prayer-1",
-      "done": false
+      "done": true
     },
     {
       "title": "THE REFORMATION: The Greatest Revival in the Post Apostolic Age Bernard of Clairvaux - Nick Anderson",
