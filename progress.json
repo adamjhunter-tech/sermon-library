@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 17:06",
+  "generated": "2026-11-06 18:07",
   "total": 727,
-  "done": 648,
-  "remaining": 79,
+  "done": 652,
+  "remaining": 75,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -16,7 +16,7 @@
       "date": "2026-11-01",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-10-12-17-glory",
-      "done": false
+      "done": true
     },
     {
       "title": "Thomas Aquinas (Mr. Isaiah Couch)",
@@ -4356,7 +4356,7 @@
       "date": "2021-09-05",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/foundations-lesson-2-providence-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Lessons on Job 7 - Suing God",
@@ -4377,7 +4377,7 @@
       "date": "2021-08-29",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/foundations-lesson-1-creation-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "A Warning from the Holy Spirit - Pastor Tito Lyro - Hebrews 3:7-19",
@@ -4468,7 +4468,7 @@
       "date": "2021-07-18",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/gods-sovereignty-and-alexander-the-great-dr-john-battle",
-      "done": false
+      "done": true
     },
     {
       "title": "The Power of a Good Example - GUEST SPEAKER: Dr. John Battle -   1 Thessalonians 1",
