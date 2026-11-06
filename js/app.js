@@ -443,7 +443,7 @@ function initLessonPage() {
     topOutline.innerHTML = `<nav class="top-outline">
       <h3>Outline</h3>
       <ol>
-        ${lesson.outline.map((pt, i) => `<li><a href="#section-${i}">${esc(pt.title)}</a></li>`).join('')}
+        ${lesson.outline.map((pt, i) => `<li><a href="#section-${i}">${esc(pt.title.replace(/^\d+\.\s*/, ''))}</a></li>`).join('')}
       </ol>
     </nav>`;
   }
