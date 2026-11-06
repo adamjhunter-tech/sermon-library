@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-06 06:07",
+  "generated": "2026-11-06 07:13",
   "total": 727,
-  "done": 619,
-  "remaining": 108,
+  "done": 622,
+  "remaining": 105,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -415,7 +415,7 @@
       "date": "2026-05-17",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/calm-in-the-character-of-god-2",
-      "done": false
+      "done": true
     },
     {
       "title": "Thankfulness and the Craving Graves (Elder Jim Blizzard)",
@@ -429,7 +429,7 @@
       "date": "2026-05-10",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/calm-in-the-character-of-god-1",
-      "done": false
+      "done": true
     },
     {
       "title": "1 Corinthians 1-18-31: The Word of the Cross (Pastor Tito Lyro)",
@@ -457,7 +457,7 @@
       "date": "2026-04-19",
       "feed": "Lessons",
       "link": "https://soundcloud.com/user-732503870/the-regulative-principle-of",
-      "done": false
+      "done": true
     },
     {
       "title": "The Resurrection and The Life (Pastor Jonathan Landry Cruze)",
