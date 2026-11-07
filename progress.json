@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 20:03",
+  "generated": "2026-11-07 22:15",
   "total": 727,
-  "done": 726,
-  "remaining": 1,
+  "done": 727,
+  "remaining": 0,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -5091,7 +5091,7 @@
       "date": "2020-09-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/hope-pastor-tito-lyro-psalm-130",
-      "done": false
+      "done": true
     }
   ]
 }
