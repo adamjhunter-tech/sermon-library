@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 17:09",
+  "generated": "2026-11-07 18:02",
   "total": 727,
-  "done": 717,
-  "remaining": 10,
+  "done": 721,
+  "remaining": 6,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -4300,7 +4300,7 @@
       "date": "2021-10-03",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/listen-guest-speaker-pastor-steve-brinegar-james-116-21",
-      "done": false
+      "done": true
     },
     {
       "title": "FOUNDATIONS - Lesson 5 - The Doctrine of the Word - Part II - Pastor Tito Lyro",
@@ -4384,7 +4384,7 @@
       "date": "2021-08-29",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/a-warning-from-the-holy-spirit-pastor-tito-lyro-hebrews-37-19",
-      "done": false
+      "done": true
     },
     {
       "title": "Gender Roles in the Church - Lesson 7 - Gender Issues and Our Children -  Elder Nick Anderson",
@@ -4524,7 +4524,7 @@
       "date": "2021-06-28",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/who-are-you-following-pastor-tito-lyro-luke-923-27",
-      "done": false
+      "done": true
     },
     {
       "title": "LGBTQ+ Issues in Light of the Bible",
@@ -4573,7 +4573,7 @@
       "date": "2021-06-13",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-god-of-all-comfort-pastor-tito-lyro-isaiah-401-11",
-      "done": false
+      "done": true
     },
     {
       "title": "Lessons on Job 1 - Considering Job",
