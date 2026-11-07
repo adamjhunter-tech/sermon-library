@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 05:12",
+  "generated": "2026-11-07 06:08",
   "total": 727,
-  "done": 684,
-  "remaining": 43,
+  "done": 685,
+  "remaining": 42,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -443,7 +443,7 @@
       "date": "2026-05-10",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-5-persuading-men",
-      "done": false
+      "done": true
     },
     {
       "title": "Sunday Service 050326",
