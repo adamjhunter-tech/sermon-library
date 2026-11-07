@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 06:08",
+  "generated": "2026-11-07 07:12",
   "total": 727,
-  "done": 685,
-  "remaining": 42,
+  "done": 689,
+  "remaining": 38,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -373,7 +373,7 @@
       "date": "2026-06-14",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/sunday-morning-060726-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "The Love of Christ Compels Us: 2 Corinthians 5:14-6:2 (Pastor Tito Lyro)",
@@ -436,7 +436,7 @@
       "date": "2026-05-10",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/1-corinthians-1-18-31-the-word",
-      "done": false
+      "done": true
     },
     {
       "title": "2 Corinthians 5: Persuading Men (Pastor Tito Lyro)",
@@ -450,7 +450,7 @@
       "date": "2026-05-03",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/sunday-service-050326",
-      "done": false
+      "done": true
     },
     {
       "title": "The Regulative Principle of Worship (Pastor Jonathan Landry Cruze)",
@@ -464,7 +464,7 @@
       "date": "2026-04-19",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-resurrection-and-the-life",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in The Character of God: Introduction (Pastor Tito Lyro)",
