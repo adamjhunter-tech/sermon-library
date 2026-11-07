@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 08:13",
+  "generated": "2026-11-07 09:10",
   "total": 727,
-  "done": 692,
-  "remaining": 35,
+  "done": 695,
+  "remaining": 32,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -506,7 +506,7 @@
       "date": "2026-04-05",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/morning-service-032826-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "The Unbreakable Chain (Mr. Craig Rowland)",
@@ -527,7 +527,7 @@
       "date": "2026-03-22",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/sunday-morning-032226",
-      "done": false
+      "done": true
     },
     {
       "title": "The Work of Creation: Part 5 (Pastor Tito Lyro)",
@@ -541,7 +541,7 @@
       "date": "2026-03-15",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/sunday-morning-031526-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "The Work of Creation: Part 4 (Pastor Tito Lyro)",
