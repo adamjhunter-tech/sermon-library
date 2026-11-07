@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 04:07",
+  "generated": "2026-11-07 05:12",
   "total": 727,
-  "done": 682,
-  "remaining": 45,
+  "done": 684,
+  "remaining": 43,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -408,7 +408,7 @@
       "date": "2026-05-24",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-spring-of-life-pastor-doug",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in the Character of God: The Omniscience of God (Mr. Alex Lyro)",
@@ -422,7 +422,7 @@
       "date": "2026-05-17",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/thankfulness-and-the-craving",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in the Character of God: The Aseity of God (Elder Nick Anderson)",
