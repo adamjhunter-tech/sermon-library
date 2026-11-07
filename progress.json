@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 12:06",
+  "generated": "2026-11-07 13:03",
   "total": 727,
-  "done": 702,
-  "remaining": 25,
+  "done": 704,
+  "remaining": 23,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -1402,7 +1402,7 @@
       "date": "2025-02-09",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/02-09-25-pm-an-ominous-beginning-part-2-hosea-1_2-9-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "02-09-25 -AM- An Ominous Beginning PART 1 - Hosea 1_2-9 - Pastor Tito Lyro",
@@ -1472,7 +1472,7 @@
       "date": "2025-01-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/1-12-25-pm-jesus-christ-the",
-      "done": false
+      "done": true
     },
     {
       "title": "1-12-25 -AM- Hebrews - Hebrews 1_1-4 - Pastor Tito Lyro",
