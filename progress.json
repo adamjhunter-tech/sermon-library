@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 07:12",
+  "generated": "2026-11-07 08:13",
   "total": 727,
-  "done": 689,
-  "remaining": 38,
+  "done": 692,
+  "remaining": 35,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -478,14 +478,14 @@
       "date": "2026-04-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-7-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 3 (Pastor Tito Lyro)",
       "date": "2026-04-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-3-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Why Use the Catechisms of the Church? (Pastor Tito Lyro)",
@@ -499,7 +499,7 @@
       "date": "2026-04-05",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/morning-service-040526-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "Morning Service 032826 (Pastor Tito Lyro)",
