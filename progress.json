@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 18:02",
+  "generated": "2026-11-07 19:06",
   "total": 727,
-  "done": 721,
-  "remaining": 6,
+  "done": 724,
+  "remaining": 3,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -4636,7 +4636,7 @@
       "date": "2021-05-16",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/a-powerful-weapon-pastor-tito-lyro-ephesians-617-20",
-      "done": false
+      "done": true
     },
     {
       "title": "Lesson 11 on Eschatology: What about the Rapture?",
@@ -4671,7 +4671,7 @@
       "date": "2021-04-25",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/04-25-21-for-the-glory-of-god-and-the-good-of-each-other-1-peter-4-7-11-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "Lesson 9 on Eschatology: The Great Tribulation - Part 1",
@@ -4769,7 +4769,7 @@
       "date": "2021-03-07",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/christ-in-the-workplace-pastor-tito-lyro-ephesians-65-9",
-      "done": false
+      "done": true
     },
     {
       "title": "What God Requires of Us - Pastor Tito Lyro - Micah 6:1-8",
