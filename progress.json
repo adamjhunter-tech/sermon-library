@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 01:10",
+  "generated": "2026-11-07 02:13",
   "total": 727,
-  "done": 675,
-  "remaining": 52,
+  "done": 677,
+  "remaining": 50,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -310,7 +310,7 @@
       "date": "2026-07-05",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-pastoral-office-is",
-      "done": false
+      "done": true
     },
     {
       "title": "Christian Nationalism: Properly Defined and Examined (Pastor Tito Lyro)",
@@ -324,7 +324,7 @@
       "date": "2026-06-28",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/a-ministry-of-reconciliation-2",
-      "done": false
+      "done": true
     },
     {
       "title": "American Presbyterians and the Revolutionary Era: Part One (Pastor Tito Lyro)",
