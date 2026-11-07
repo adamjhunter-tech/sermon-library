@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
@@ -20,15 +20,15 @@
       "source": "detected"
     },
     {
-      "tag": "Humility",
+      "tag": "humility",
       "source": "detected"
     },
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
-      "tag": "Thanksgiving",
+      "tag": "thanksgiving",
       "source": "detected"
     },
     {

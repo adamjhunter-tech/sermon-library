@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Regeneration",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     }
   ],

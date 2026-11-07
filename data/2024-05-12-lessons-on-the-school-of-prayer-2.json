@@ -12,11 +12,11 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Thanksgiving",
+      "tag": "thanksgiving",
       "source": "detected"
     },
     {
@@ -24,11 +24,11 @@
       "source": "detected"
     },
     {
-      "tag": "Church Unity",
+      "tag": "church unity",
       "source": "detected"
     },
     {
-      "tag": "Perseverance",
+      "tag": "perseverance",
       "source": "detected"
     },
     {

@@ -12,11 +12,11 @@
   ],
   "tags": [
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
@@ -28,7 +28,7 @@
       "source": "detected"
     },
     {
-      "tag": "Christian Living",
+      "tag": "Christian living",
       "source": "detected"
     },
     {

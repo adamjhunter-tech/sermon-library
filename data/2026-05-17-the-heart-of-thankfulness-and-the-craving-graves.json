@@ -12,15 +12,15 @@
   ],
   "tags": [
     {
-      "tag": "Gratitude",
+      "tag": "gratitude",
       "source": "detected"
     },
     {
-      "tag": "Contentment",
+      "tag": "contentment",
       "source": "detected"
     },
     {
-      "tag": "Idolatry",
+      "tag": "idolatry",
       "source": "detected"
     },
     {
@@ -28,7 +28,7 @@
       "source": "detected"
     },
     {
-      "tag": "Judgment",
+      "tag": "judgment",
       "source": "detected"
     },
     {

@@ -16,7 +16,7 @@
       "source": "detected"
     },
     {
-      "tag": "Persecution",
+      "tag": "persecution",
       "source": "detected"
     },
     {
@@ -24,7 +24,7 @@
       "source": "detected"
     },
     {
-      "tag": "Faithfulness",
+      "tag": "faithfulness",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Encouragement",
+      "tag": "encouragement",
       "source": "detected"
     }
   ],

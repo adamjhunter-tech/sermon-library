@@ -12,11 +12,11 @@
   ],
   "tags": [
     {
-      "tag": "Perseverance",
+      "tag": "perseverance",
       "source": "detected"
     },
     {
-      "tag": "Faith",
+      "tag": "faith",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Suffering",
+      "tag": "suffering",
       "source": "detected"
     }
   ],

@@ -16,7 +16,7 @@
       "source": "detected"
     },
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Intercession",
+      "tag": "intercession",
       "source": "detected"
     }
   ],

@@ -3,7 +3,7 @@
   "title": "Hope",
   "speaker": "Pastor Tito Lyro",
   "date": "2020-07-12",
-  "session": null,
+  "session": "AM",
   "series": null,
   "series_part": null,
   "parts": 1,
@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Lament",
+      "tag": "lament",
       "source": "detected"
     },
     {
@@ -28,7 +28,7 @@
       "source": "detected"
     },
     {
-      "tag": "Forgiveness",
+      "tag": "forgiveness",
       "source": "detected"
     },
     {

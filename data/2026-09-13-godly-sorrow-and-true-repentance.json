@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
@@ -20,19 +20,19 @@
       "source": "detected"
     },
     {
-      "tag": "Church Discipline",
+      "tag": "church discipline",
       "source": "detected"
     },
     {
-      "tag": "Pastoral Care",
+      "tag": "pastoral care",
       "source": "detected"
     },
     {
-      "tag": "Restoration",
+      "tag": "restoration",
       "source": "detected"
     },
     {
-      "tag": "Sin",
+      "tag": "sin",
       "source": "detected"
     }
   ],

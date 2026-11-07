@@ -16,15 +16,15 @@
       "source": "detected"
     },
     {
-      "tag": "Creation",
+      "tag": "creation",
       "source": "detected"
     },
     {
-      "tag": "Redemption",
+      "tag": "redemption",
       "source": "detected"
     },
     {
-      "tag": "Reconciliation",
+      "tag": "reconciliation",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Worship",
+      "tag": "worship",
       "source": "detected"
     }
   ],
