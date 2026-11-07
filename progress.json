@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 15:04",
+  "generated": "2026-11-07 16:06",
   "total": 727,
-  "done": 711,
-  "remaining": 16,
+  "done": 713,
+  "remaining": 14,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -3341,7 +3341,7 @@
       "date": "2022-09-25",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/boldness-pastor-tito-lyro-psalm-11941-48",
-      "done": false
+      "done": true
     },
     {
       "title": "Psalm 119:33-40: Teach Me, O Lord (Pastor Tito Lyro)",
@@ -3936,7 +3936,7 @@
       "date": "2022-02-27",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/and-this-is-love-pastor-tito-lyro-1-john-310-18",
-      "done": false
+      "done": true
     },
     {
       "title": "Lessons from the School of Prayer 12 - Basic Facts About Prayer Part 1 - Daniel 9 - Pastor Tito Lyro",
