@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 00:09",
+  "generated": "2026-11-07 01:10",
   "total": 727,
-  "done": 671,
-  "remaining": 56,
+  "done": 675,
+  "remaining": 52,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -247,7 +247,7 @@
       "date": "2026-07-26",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-51-forgive-me-lord",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 11: of Justification - Part One (Elder Scott Hollander)",
@@ -261,14 +261,14 @@
       "date": "2026-07-19",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/proverbs-29-25-the-fear-of-man",
-      "done": false
+      "done": true
     },
     {
       "title": "Matthew 11:25-30: Come to Jesus (Pastor Tito Lyro)",
       "date": "2026-07-19",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/come-to-jesus-matthew-11-25-39",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 10: of Effectual Calling (Pastor Tito Lyro)",
@@ -282,7 +282,7 @@
       "date": "2026-07-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/psalm-14-the-foolish-heart",
-      "done": false
+      "done": true
     },
     {
       "title": "An Open Heart for Christ and His Church: 2 Corinthians 6-3-13 (Pastor Tito Lyro)",
