@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 09:10",
+  "generated": "2026-11-07 10:05",
   "total": 727,
-  "done": 695,
-  "remaining": 32,
+  "done": 699,
+  "remaining": 28,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -576,7 +576,7 @@
       "date": "2026-03-01",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/morning-sermon-030126",
-      "done": false
+      "done": true
     },
     {
       "title": "The Work of Creation: Part 2 (Pastor Tito Lyro)",
@@ -625,7 +625,7 @@
       "date": "2026-02-08",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/greed-gambling-and-godliness",
-      "done": false
+      "done": true
     },
     {
       "title": "No Greater Gain  (Pastor Henry Flowers)",
@@ -1087,7 +1087,7 @@
       "date": "2025-08-04",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/1-thessalonians-3-1-5-dr-john",
-      "done": false
+      "done": true
     },
     {
       "title": "Church Government // Part 1 (Pastor Tito Lyro)",
@@ -1108,7 +1108,7 @@
       "date": "2025-07-28",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/afternoon-sermon-hosea-12-5",
-      "done": false
+      "done": true
     },
     {
       "title": "The Beatitudes // Part Three (Elder Nick Anderson)",
