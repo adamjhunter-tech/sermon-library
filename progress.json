@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 02:13",
+  "generated": "2026-11-07 03:13",
   "total": 727,
-  "done": 677,
-  "remaining": 50,
+  "done": 680,
+  "remaining": 47,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -338,14 +338,14 @@
       "date": "2026-06-21",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/the-lord-god-sovereign-over",
-      "done": false
+      "done": true
     },
     {
       "title": "From Now On: 2 Corinthians 5:14-6:3 (Pastor Tito Lyro)",
       "date": "2026-06-21",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/from-now-on-2-corinthians-5-14",
-      "done": false
+      "done": true
     },
     {
       "title": "Calm in the Character of God: God's Love (Mr. Steve Thomas)",
@@ -366,7 +366,7 @@
       "date": "2026-06-14",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/afternoon-service-061426",
-      "done": false
+      "done": true
     },
     {
       "title": "The Love of God: 2 Corinthians 5:12- 21 (Pastor Tito Lyro)",
