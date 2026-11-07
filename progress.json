@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 03:13",
+  "generated": "2026-11-07 04:07",
   "total": 727,
-  "done": 680,
-  "remaining": 47,
+  "done": 682,
+  "remaining": 45,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -289,7 +289,7 @@
       "date": "2026-07-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/an-open-heart-for-christ-and",
-      "done": false
+      "done": true
     },
     {
       "title": "Chapter 9: of Free Will (Pastor Tito Lyro)",
@@ -380,7 +380,7 @@
       "date": "2026-06-14",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/sunday-morning-061426-pastor",
-      "done": false
+      "done": true
     },
     {
       "title": "An Interview with Pastor Doug Leaman",
