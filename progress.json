@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-07 11:04",
+  "generated": "2026-11-07 12:06",
   "total": 727,
   "done": 702,
   "remaining": 25,
@@ -1472,14 +1472,14 @@
       "date": "2025-01-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/1-12-25-pm-jesus-christ-the",
-      "done": true
+      "done": false
     },
     {
       "title": "1-12-25 -AM- Hebrews - Hebrews 1_1-4 - Pastor Tito Lyro",
       "date": "2025-01-12",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/1-12-25-am-hebrews-hebrews-1_1",
-      "done": false
+      "done": true
     },
     {
       "title": "1-5-25 - Thinking Biblically About Life 7 - Technology - Pastor Tito Lyro",
