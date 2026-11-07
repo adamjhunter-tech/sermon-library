@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 19:06",
+  "generated": "2026-11-07 20:03",
   "total": 727,
-  "done": 724,
-  "remaining": 3,
+  "done": 726,
+  "remaining": 1,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -4853,7 +4853,7 @@
       "date": "2021-01-24",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/set-your-mind-on-christ-elder-andrew-hoy-colossians-31-17",
-      "done": false
+      "done": true
     },
     {
       "title": "A Glorious Thing - Pastor Tito Lyro - Ephesians 5:22-33",
@@ -4972,7 +4972,7 @@
       "date": "2020-10-10",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/4-the-resurrection-of-the-righteous-and-the-unrighteous",
-      "done": false
+      "done": true
     },
     {
       "title": "Lecture 3: Post-Tribulational Coming of Christ",
