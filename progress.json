@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-07 10:05",
+  "generated": "2026-11-07 11:04",
   "total": 727,
-  "done": 699,
-  "remaining": 28,
+  "done": 702,
+  "remaining": 25,
   "episodes": [
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
@@ -1143,7 +1143,7 @@
       "date": "2025-06-01",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/06-01-2025-am-the-forgotten",
-      "done": false
+      "done": true
     },
     {
       "title": "The Beatitudes // Part 1 (Elder Nick Anderson)",
@@ -1192,7 +1192,7 @@
       "date": "2025-05-11",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/05-11-2025-pm-gods",
-      "done": false
+      "done": true
     },
     {
       "title": "05-11-2025 -AM- Mothers, Hate Your Family - Luke 14_25-29 - Pastor Tito Lyro",
@@ -1388,7 +1388,7 @@
       "date": "2025-02-16",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-16-25-am-names-tell-us-something-hosea-1_2-9-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "2-9-25 - The Deconstruction of Christianity Part 4 Dismantling Authority - Pastor Tito Lyro",
@@ -1402,14 +1402,14 @@
       "date": "2025-02-09",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/02-09-25-pm-an-ominous-beginning-part-2-hosea-1_2-9-pastor-tito-lyro",
-      "done": true
+      "done": false
     },
     {
       "title": "02-09-25 -AM- An Ominous Beginning PART 1 - Hosea 1_2-9 - Pastor Tito Lyro",
       "date": "2025-02-09",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/02-09-25-am-an-ominous-beginning-part-1-hosea-1_2-9-pastor-tito-lyro",
-      "done": false
+      "done": true
     },
     {
       "title": "2-2-25 - The Deconstruction of Christianity Part 3 Suffering and Truth - Elder Nick Anderson",
