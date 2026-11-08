@@ -109,6 +109,23 @@ function renderLessonCard(lesson) {
 </a>`;
 }
 
+// Real calendar dates are YYYY-MM-DD. Anything else (blank, null, "Unknown")
+// has no date and sorts after every dated lesson.
+function lessonDateKey(date) {
+  return /^\d{4}-\d{2}-\d{2}$/.test(date) ? date : null;
+}
+
+function compareLessons(a, b, sort) {
+  if (sort === 'title')   return (a.title||'').localeCompare(b.title||'', undefined, {sensitivity:'base'});
+  if (sort === 'speaker') return (a.speaker||'').localeCompare(b.speaker||'', undefined, {sensitivity:'base'});
+  const da = lessonDateKey(a.date);
+  const db = lessonDateKey(b.date);
+  if (da && db) return sort === 'date-asc' ? da.localeCompare(db) : db.localeCompare(da);
+  if (da) return -1;
+  if (db) return 1;
+  return 0;
+}
+
 // ── Index Page ───────────────────────────────────────────────
 function initIndexPage() {
   const data = window.LIBRARY_DATA;
@@ -149,12 +166,7 @@ function initIndexPage() {
     };
     let results = searchLessons(query, filters);
     const sort = document.getElementById('sort-select')?.value || 'date-desc';
-    results = [...results].sort((a, b) => {
-      if (sort === 'date-asc')  return (a.date||'').localeCompare(b.date||'');
-      if (sort === 'title')     return (a.title||'').localeCompare(b.title||'', undefined, {sensitivity:'base'});
-      if (sort === 'speaker')   return (a.speaker||'').localeCompare(b.speaker||'', undefined, {sensitivity:'base'});
-      return (b.date||'').localeCompare(a.date||''); // date-desc default
-    });
+    results = [...results].sort((a, b) => compareLessons(a, b, sort));
     container.innerHTML = results.length
       ? results.map(renderLessonCard).join('')
       : '<p style="color:var(--muted);padding:2rem 0">No lessons found. Try broadening your search.</p>';
@@ -167,7 +179,9 @@ function initIndexPage() {
   document.getElementById('date-to')?.addEventListener('change', render);
   clearBtn.addEventListener('click', () => {
     searchEl.value = '';
-    document.querySelectorAll('.filter-select').forEach(el => el.value = '');
+    document.querySelectorAll('.filter-select').forEach(el => {
+      el.value = el.id === 'sort-select' ? 'date-desc' : '';
+    });
     const df = document.getElementById('date-from'); if (df) df.value = '';
     const dt = document.getElementById('date-to');   if (dt) dt.value = '';
     render();
