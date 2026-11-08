@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Praise",
+      "tag": "praise",
       "source": "detected"
     },
     {
@@ -24,7 +24,7 @@
       "source": "detected"
     },
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Prayer",
+      "tag": "prayer",
       "source": "detected"
     }
   ],

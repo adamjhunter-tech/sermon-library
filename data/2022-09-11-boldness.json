@@ -4,7 +4,7 @@
   "speaker": "Pastor Tito Lyro",
   "date": "2022-09-11",
   "session": null,
-  "series": null,
+  "series": "Psalm 119",
   "series_part": null,
   "parts": 1,
   "source_files": [
@@ -12,23 +12,23 @@
   ],
   "tags": [
     {
-      "tag": "Boldness",
+      "tag": "boldness",
       "source": "detected"
     },
     {
-      "tag": "Covenantal Faithfulness",
+      "tag": "Covenant Faithfulness",
       "source": "detected"
     },
     {
-      "tag": "Apologetics",
+      "tag": "apologetics",
       "source": "detected"
     },
     {
-      "tag": "Persecution",
+      "tag": "persecution",
       "source": "detected"
     },
     {
-      "tag": "Obedience",
+      "tag": "obedience",
       "source": "detected"
     },
     {

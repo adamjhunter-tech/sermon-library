@@ -12,15 +12,15 @@
   ],
   "tags": [
     {
-      "tag": "Atonement",
+      "tag": "atonement",
       "source": "detected"
     },
     {
-      "tag": "Regeneration",
+      "tag": "regeneration",
       "source": "detected"
     },
     {
-      "tag": "New Creation",
+      "tag": "new creation",
       "source": "detected"
     },
     {
@@ -32,7 +32,7 @@
       "source": "detected"
     },
     {
-      "tag": "Election",
+      "tag": "election",
       "source": "detected"
     }
   ],

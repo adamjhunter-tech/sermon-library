@@ -4,7 +4,7 @@
   "speaker": "Pastor Lehman",
   "date": "2025-06-01",
   "session": "AM",
-  "series": null,
+  "series": "Hosea",
   "series_part": null,
   "parts": 1,
   "source_files": [
@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Covenant Theology",
+      "tag": "covenant theology",
       "source": "detected"
     },
     {
@@ -20,7 +20,7 @@
       "source": "detected"
     },
     {
-      "tag": "Idolatry",
+      "tag": "idolatry",
       "source": "detected"
     },
     {
@@ -28,11 +28,11 @@
       "source": "detected"
     },
     {
-      "tag": "Repentance",
+      "tag": "repentance",
       "source": "detected"
     },
     {
-      "tag": "Scripture Authority",
+      "tag": "Scriptural Authority",
       "source": "detected"
     }
   ],

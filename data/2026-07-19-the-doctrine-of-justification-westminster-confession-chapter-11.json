@@ -12,11 +12,11 @@
   ],
   "tags": [
     {
-      "tag": "Justification",
+      "tag": "justification",
       "source": "detected"
     },
     {
-      "tag": "Imputation",
+      "tag": "imputation",
       "source": "detected"
     },
     {

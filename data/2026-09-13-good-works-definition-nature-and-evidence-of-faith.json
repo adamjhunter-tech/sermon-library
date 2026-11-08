@@ -12,7 +12,7 @@
   ],
   "tags": [
     {
-      "tag": "Good Works",
+      "tag": "good works",
       "source": "detected"
     },
     {
@@ -20,7 +20,7 @@
       "source": "detected"
     },
     {
-      "tag": "Sanctification",
+      "tag": "sanctification",
       "source": "detected"
     },
     {
@@ -28,11 +28,11 @@
       "source": "detected"
     },
     {
-      "tag": "Obedience",
+      "tag": "obedience",
       "source": "detected"
     },
     {
-      "tag": "Grace",
+      "tag": "grace",
       "source": "detected"
     }
   ],

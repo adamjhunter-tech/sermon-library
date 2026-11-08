@@ -12,11 +12,11 @@
   ],
   "tags": [
     {
-      "tag": "Reconciliation",
+      "tag": "reconciliation",
       "source": "detected"
     },
     {
-      "tag": "Atonement",
+      "tag": "atonement",
       "source": "detected"
     },
     {
@@ -24,11 +24,11 @@
       "source": "detected"
     },
     {
-      "tag": "Grace",
+      "tag": "grace",
       "source": "detected"
     },
     {
-      "tag": "Sin",
+      "tag": "sin",
       "source": "detected"
     },
     {
