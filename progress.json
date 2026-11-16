@@ -1,9 +1,44 @@
 {
-  "generated": "2026-11-09 23:12",
-  "total": 727,
-  "done": 727,
-  "remaining": 0,
+  "generated": "2026-11-16 20:40",
+  "total": 732,
+  "done": 731,
+  "remaining": 1,
   "episodes": [
+    {
+      "title": "The Reliability of the Bible: Historical (Pastor Tito Lyro)",
+      "date": "2026-11-15",
+      "feed": "Lessons",
+      "link": "https://soundcloud.com/user-732503870/the-reliability-of-the-bible-1",
+      "done": true
+    },
+    {
+      "title": "The Reliability of the Bible (Pastor Tito Lyro)",
+      "date": "2026-11-15",
+      "feed": "Lessons",
+      "link": "https://soundcloud.com/user-732503870/the-reliability-of-the-bible",
+      "done": true
+    },
+    {
+      "title": "2 Corinthians 11:16-30: More Foolishness (Pastor Tito Lyro)",
+      "date": "2026-11-15",
+      "feed": "Sermons",
+      "link": "https://soundcloud.com/olympiabp/2-corinthians-11-16-30-more",
+      "done": true
+    },
+    {
+      "title": "2 Corinthians 11:4: Another Jesus (Pastor Tito Lyro)",
+      "date": "2026-11-15",
+      "feed": "Sermons",
+      "link": "https://soundcloud.com/olympiabp/2-corinthians-11-4-another",
+      "done": true
+    },
+    {
+      "title": "2 Corinthians 11:1-15: The Folly of Self-Defense (Pastor Tito Lyro)",
+      "date": "2026-11-15",
+      "feed": "Sermons",
+      "link": "https://soundcloud.com/olympiabp/2-corinthians-11-1-15-the",
+      "done": false
+    },
     {
       "title": "The Reliability of Scripture: The Witness of God (Pastor Tito Lyro)",
       "date": "2026-11-01",
