@@ -1,8 +1,8 @@
 {
-  "generated": "2026-11-24 01:21",
+  "generated": "2026-11-24 04:39",
   "total": 734,
-  "done": 733,
-  "remaining": 1,
+  "done": 734,
+  "remaining": 0,
   "episodes": [
     {
       "title": "The Reliability of the Bible: Prophecy Fulfilled (Pastor Tito Lyro)",
@@ -16,7 +16,7 @@
       "date": "2026-11-22",
       "feed": "Sermons",
       "link": "https://soundcloud.com/olympiabp/2-corinthians-12-1-6-a",
-      "done": false
+      "done": true
     },
     {
       "title": "The Reliability of the Bible: Historical (Pastor Tito Lyro)",
