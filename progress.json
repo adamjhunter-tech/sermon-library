@@ -1,9 +1,23 @@
 {
-  "generated": "2026-11-16 23:05",
-  "total": 732,
-  "done": 732,
-  "remaining": 0,
+  "generated": "2026-11-24 01:21",
+  "total": 734,
+  "done": 733,
+  "remaining": 1,
   "episodes": [
+    {
+      "title": "The Reliability of the Bible: Prophecy Fulfilled (Pastor Tito Lyro)",
+      "date": "2026-11-22",
+      "feed": "Lessons",
+      "link": "https://soundcloud.com/user-732503870/the-reliability-of-the-bible-2",
+      "done": true
+    },
+    {
+      "title": "2 Corinthians 12:1-6: A Heavenly Vision (Pastor Tito Lyro)",
+      "date": "2026-11-22",
+      "feed": "Sermons",
+      "link": "https://soundcloud.com/olympiabp/2-corinthians-12-1-6-a",
+      "done": false
+    },
     {
       "title": "The Reliability of the Bible: Historical (Pastor Tito Lyro)",
       "date": "2026-11-15",
